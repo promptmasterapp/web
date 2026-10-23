@@ -1,0 +1,655 @@
+{
+  "code": "it",
+  "name": "Italiano",
+  "ogLocale": "it_IT",
+  "appleLocale": "it-it",
+  "common": {
+    "skip": "Vai al contenuto principale",
+    "brandTag": "Impara i prompt AI",
+    "navHow": "Come funziona",
+    "navPaths": "Percorsi",
+    "navPremium": "Premium",
+    "navFaq": "FAQ",
+    "getApp": "Scarica l’app",
+    "appStoreSmall": "Scarica su",
+    "appStoreBig": "App Store",
+    "playSmall": "Disponibile su",
+    "playBig": "Google Play",
+    "footerTagline": "Impara a fare all’IA la domanda giusta. Cinque minuti al giorno.",
+    "footerProduct": "Prodotto",
+    "footerLegal": "Note legali",
+    "footerHelp": "Aiuto",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di utilizzo",
+    "support": "Supporto",
+    "contact": "Contatti",
+    "language": "Lingua",
+    "allLanguages": "Tutte le lingue",
+    "rights": "© 2026 Tiki Studios. Tutti i diritti riservati.",
+    "lastUpdated": "Ultimo aggiornamento: 4 ottobre 2026",
+    "toc": "In questa pagina",
+    "backToTop": "Torna su",
+    "home": "Home",
+    "logoAlt": "PromptMaster, pagina iniziale"
+  },
+  "home": {
+    "title": "PromptMaster: Learn AI Prompts — prompt migliori in 5 min al giorno",
+    "description": "PromptMaster ti insegna a scrivere prompt migliori per l’IA in cinque minuti al giorno. Lezioni per il tuo lavoro, serie, XP e una lega settimanale. Senza account.",
+    "heroEyebrow": "5 minuti al giorno",
+    "heroTitle": "Fai all’IA la domanda <em>giusta</em>.",
+    "heroText": "La risposta dell’IA non vale mai più della domanda che le fai. PromptMaster ti insegna a farne di migliori: non imparando regole a memoria, ma con cinque minuti di pratica al giorno.",
+    "heroNote": "Gratis per iniziare · Nessun account, nessuna registrazione",
+    "heroShotAlt": "La schermata Home di PromptMaster con una serie di 12 giorni, l’obiettivo giornaliero e un giro di ripasso",
+    "chipStreak": "giorni di serie",
+    "chipXp": "XP",
+    "chipHearts": "cuori",
+    "stats": [
+      {
+        "n": "6",
+        "l": "percorsi per ambito"
+      },
+      {
+        "n": "150+",
+        "l": "lezioni"
+      },
+      {
+        "n": "550+",
+        "l": "esercizi"
+      },
+      {
+        "n": "5 min",
+        "l": "al giorno bastano"
+      }
+    ],
+    "howEyebrow": "Come funziona",
+    "howTitle": "Lezioni brevi. Pratica vera. Feedback chiaro.",
+    "howText": "Ogni lezione dura circa cinque minuti e si chiude sempre con un prompt scritto da te, non solo con la teoria.",
+    "steps": [
+      {
+        "t": "Scegli il tuo ambito",
+        "d": "Architetto, sviluppatore, insegnante, marketer, studente o semplicemente curioso. Lezioni ed esempi seguono quello che fai davvero."
+      },
+      {
+        "t": "Allenati in cinque modi",
+        "d": "Confronta, completa gli spazi, metti in ordine, trova il difetto e scrivi il tuo prompt. Ogni tipo di esercizio allena un’abilità diversa."
+      },
+      {
+        "t": "Ricevi un punteggio e migliora",
+        "d": "I prompt che scrivi vengono valutati su contesto, chiarezza, formato e vincoli, e vedi esattamente cosa aggiungere."
+      }
+    ],
+    "types": [
+      "Confronta",
+      "Completa gli spazi",
+      "Metti in ordine",
+      "Trova il difetto",
+      "Scrivi il tuo"
+    ],
+    "criteria": [
+      "Contesto",
+      "Chiarezza",
+      "Formato",
+      "Vincoli"
+    ],
+    "criteriaLabel": "Ogni prompt che scrivi viene valutato su",
+    "howShotAlt": "Un prompt scritto con un punteggio di 81 su 100 e barre separate per contesto, chiarezza, formato e vincoli",
+    "howShot2Alt": "Un esercizio a scelta multipla: quale prompt migliora davvero il risultato?",
+    "pathsEyebrow": "Percorsi per ambito",
+    "pathsTitle": "Lezioni costruite intorno al tuo lavoro",
+    "pathsText": "Ogni ambito ha un percorso di dieci unità: dalle basi alla padronanza, passando per chiarezza e tecniche avanzate. Puoi cambiare ambito quando vuoi.",
+    "roles": [
+      {
+        "key": "architect",
+        "name": "Architetto",
+        "hint": "Generazione di immagini, presentazioni",
+        "d": "Descrivi uno spazio, uno stile e una luce così bene che lo strumento per le immagini centri il risultato."
+      },
+      {
+        "key": "developer",
+        "name": "Sviluppatore",
+        "hint": "Codice, debug",
+        "d": "Allenati con prompt per il debug e la revisione del codice, dando all’assistente il contesto che gli serve."
+      },
+      {
+        "key": "teacher",
+        "name": "Insegnante",
+        "hint": "Piani di lezione, materiali",
+        "d": "Chiedi piani di lezione, schede di esercizi e spiegazioni calibrate sul livello giusto."
+      },
+      {
+        "key": "marketer",
+        "name": "Marketer",
+        "hint": "Testi, campagne",
+        "d": "Fai un brief all’IA da professionista: pubblico, tono, formato e i limiti che il tuo testo deve rispettare."
+      },
+      {
+        "key": "student",
+        "name": "Studente",
+        "hint": "Compiti, ricerca",
+        "d": "Usa l’IA per capire e fare ricerca, con domande che ti portano a imparare davvero."
+      },
+      {
+        "key": "curious",
+        "name": "Curioso",
+        "hint": "Vita quotidiana, hobby",
+        "d": "Viaggi, ricette, hobby e domande di tutti i giorni: risposte utili al primo colpo."
+      }
+    ],
+    "gameEyebrow": "Fatto per diventare un’abitudine",
+    "gameTitle": "Cinque minuti che fanno la differenza",
+    "gameText": "Una lezione al giorno oppure otto: l’obiettivo lo decidi tu. Piccole ricompense ti fanno tornare, finché scrivere buoni prompt non diventa naturale.",
+    "game": [
+      {
+        "key": "streak",
+        "t": "Serie quotidiane",
+        "d": "Tieni viva la tua serie con una lezione al giorno. Se salti un giorno, la protezione della serie la salva."
+      },
+      {
+        "key": "xp",
+        "t": "XP e distintivi",
+        "d": "Guadagna XP con ogni lezione e colleziona nove distintivi lungo il percorso."
+      },
+      {
+        "key": "hearts",
+        "t": "Cuori",
+        "d": "Ogni errore costa un cuore. I cuori si ricaricano da soli ogni 25 minuti, oppure subito con le gemme."
+      },
+      {
+        "key": "gems",
+        "t": "Gemme",
+        "d": "Guadagna gemme completando lezioni, risolvendole senza errori e raggiungendo i traguardi della serie."
+      },
+      {
+        "key": "league",
+        "t": "Lega settimanale",
+        "d": "Sali dalla Lega Ambra fino alla Lega Diamante. I tuoi rivali sono giocatori immaginari generati sul tuo dispositivo."
+      },
+      {
+        "key": "library",
+        "t": "Libreria di template",
+        "d": "Sfoglia prompt già pronti e adattali al tuo lavoro."
+      }
+    ],
+    "gameShotAlt": "La classifica della lega settimanale con la zona promozione e la tua posizione",
+    "gameShot2Alt": "Il percorso delle lezioni, unità per unità, con le lezioni completate e quelle in arrivo",
+    "privacyEyebrow": "Privacy fin dalla progettazione",
+    "privacyTitle": "I tuoi progressi restano sul tuo telefono",
+    "privacyText": "Nessun account e nessuna registrazione. Serie, XP, gemme e lezioni completate vivono solo sul tuo dispositivo: non li inviamo mai a un server.",
+    "privacyPoints": [
+      "Nessun account, nessuna e-mail, nessuna password",
+      "I progressi di apprendimento restano solo sul tuo dispositivo",
+      "Azzeri tutto con un tocco, quando vuoi"
+    ],
+    "privacyLink": "Leggi l’Informativa sulla privacy",
+    "privacyShotAlt": "La schermata Profilo con serie, XP totali, lezioni completate e distintivi",
+    "premiumEyebrow": "PromptMaster Premium",
+    "premiumTitle": "Impara senza limiti",
+    "premiumText": "PromptMaster si usa gratis. La versione gratuita mostra pubblicità tra una lezione e l’altra e limita i cuori. Premium elimina sia la pubblicità sia il limite.",
+    "premiumBenefits": [
+      "Niente pubblicità",
+      "Cuori illimitati",
+      "Ripassi illimitati",
+      "Protezione automatica della serie"
+    ],
+    "planMonthly": {
+      "t": "Mensile",
+      "d": "Si rinnova ogni mese finché non disdici."
+    },
+    "planYearly": {
+      "t": "Annuale",
+      "d": "Si rinnova ogni anno finché non disdici.",
+      "badge": "7 giorni di prova gratuita"
+    },
+    "premiumNote": "La prova gratuita è riservata ai nuovi abbonati idonei. I prezzi aggiornati sono indicati nell’App Store, su Google Play e nell’app. Puoi disdire in qualsiasi momento dalle impostazioni del tuo account dello store.",
+    "premiumTermsLink": "Condizioni dell’abbonamento",
+    "faqTitle": "Domande frequenti",
+    "faq": [
+      {
+        "q": "PromptMaster è gratis?",
+        "a": "Sì. Puoi usare tutte le lezioni gratuitamente. La versione gratuita mostra pubblicità tra una lezione e l’altra e limita i cuori; PromptMaster Premium toglie la pubblicità e ti dà cuori illimitati, ripassi illimitati e la protezione automatica della serie."
+      },
+      {
+        "q": "Serve un account?",
+        "a": "No. Non c’è nessuna registrazione. I tuoi progressi vengono salvati solo sul tuo dispositivo."
+      },
+      {
+        "q": "PromptMaster genera risposte con l’IA?",
+        "a": "No. PromptMaster non si collega a nessuno strumento di IA e non produce contenuti generati dall’IA. Ti insegna tecniche di scrittura dei prompt che puoi applicare negli strumenti di IA che usi già."
+      },
+      {
+        "q": "A chi è rivolto?",
+        "a": "A chiunque voglia risultati migliori dall’IA, dagli studenti ai nonni. Aree toccabili ampie, testo leggibile e linguaggio semplice lo rendono facile da usare a qualsiasi età."
+      },
+      {
+        "q": "I rivali della lega sono persone reali?",
+        "a": "No. Gli avversari della lega settimanale sono giocatori immaginari generati sul tuo dispositivo. Nessun altro può vederti e nessun dato viene condiviso."
+      },
+      {
+        "q": "Come disdico Premium?",
+        "a": "Gli abbonamenti sono gestiti da Apple o Google. Disdici dalle impostazioni del tuo account App Store o Google Play almeno 24 ore prima della fine del periodo in corso. Trovi le istruzioni passo passo nella nostra [pagina di supporto]({support})."
+      }
+    ],
+    "ctaTitle": "Inizia oggi. Cinque minuti ce li hai.",
+    "ctaText": "Scarica PromptMaster e completa la tua prima lezione prima che il caffè si raffreddi."
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy — PromptMaster",
+    "description": "Come l’app PromptMaster tratta i dati: i progressi restano sul dispositivo, pubblicità di Google AdMob, analisi con Firebase, acquisti tramite RevenueCat o HUAWEI In-App Purchases.",
+    "h1": "Informativa sulla privacy",
+    "intro": [
+      "La presente Informativa sulla privacy spiega quali informazioni tratta l’app mobile PromptMaster («PromptMaster», «l’app»), per quali finalità e quali scelte Lei ha a disposizione. PromptMaster è sviluppata e gestita da Tiki Studios («Tiki Studios», «noi»). La presente informativa si applica all’app per iOS e Android e al presente sito web."
+    ],
+    "sections": [
+      {
+        "id": "summary",
+        "title": "In sintesi",
+        "body": [
+          "! **In breve:** PromptMaster non prevede account utente e non dispone di server propri. I Suoi progressi di apprendimento restano sul Suo dispositivo. La versione gratuita mostra annunci di Google AdMob; utilizziamo Firebase (di Google) per comprendere l’utilizzo dell’app e correggere gli arresti anomali, e RevenueCat (o, nella versione HUAWEI AppGallery, HUAWEI In-App Purchases) per gestire gli abbonamenti. Questi fornitori trattano alcuni dati relativi al dispositivo e all’utilizzo, come descritto di seguito. Non vendiamo i Suoi dati personali."
+        ]
+      },
+      {
+        "id": "who-we-are",
+        "title": "Chi siamo e come contattarci",
+        "body": [
+          "PromptMaster è sviluppata e gestita da Tiki Studios. Tiki Studios è il titolare del trattamento dei dati personali descritto nella presente informativa. Per qualsiasi domanda o richiesta in materia di privacy, può scriverci all’indirizzo [support@tikistudios.io](mailto:support@tikistudios.io)."
+        ],
+        "todo": "TODO legal review: add the postal address of Tiki Studios (data controller) and its legal form, if required (GDPR Art. 13 / KVKK Art. 10)"
+      },
+      {
+        "id": "on-device",
+        "title": "Dati conservati solo sul Suo dispositivo",
+        "body": [
+          "PromptMaster non prevede account utente. Le seguenti informazioni sono conservate esclusivamente sul Suo dispositivo (nella memoria locale dell’app) e non ci vengono mai inviate, dato che non disponiamo di alcun server a cui inviarle:",
+          "- i Suoi progressi di apprendimento: serie, XP, cuori, gemme, distintivi, posizione in lega e lezioni completate;",
+          "- le domande a cui ha risposto in modo errato (per i giri di ripasso) e i template che ha salvato;",
+          "- il nome che digita, se sceglie di inserirne uno;",
+          "- le Sue impostazioni, come l’ambito (ruolo), l’obiettivo giornaliero, la lingua e la preferenza sui promemoria, nonché l’informazione se Premium è attivo.",
+          "Può cancellare queste informazioni in qualsiasi momento dall’app con **Profilo → Azzera i progressi**. L’azzeramento cancella progressi, distintivi e record; resta memorizzata come impostazione solo la preferenza sui promemoria (attivo/disattivo e orario). Disinstallando l’app si elimina tutto."
+        ]
+      },
+      {
+        "id": "notifications",
+        "title": "Notifiche",
+        "body": [
+          "I promemoria sono notifiche locali programmate sul Suo dispositivo dal sistema del telefono stesso. Non gestiamo alcun server di notifiche push e, per recapitarle, nessun dato viene inviato altrove. Le notifiche sono facoltative: può disattivarle nell’app o nelle impostazioni del dispositivo, e l’app funziona pienamente anche senza."
+        ]
+      },
+      {
+        "id": "league",
+        "title": "Lega settimanale",
+        "body": [
+          "Gli avversari della lega settimanale sono giocatori fittizi generati sul Suo dispositivo. Nella lega non ci sono altri utenti reali: il Suo nome, il Suo punteggio e la Sua posizione in classifica non vengono condivisi con nessuno e nessun altro può vederLa."
+        ]
+      },
+      {
+        "id": "advertising",
+        "title": "Pubblicità (Google AdMob)",
+        "body": [
+          "La versione gratuita di PromptMaster mostra annunci interstitial (a schermo intero) tra una lezione e l’altra e annunci video con premio facoltativi, forniti da Google AdMob (Google Mobile Ads SDK), un servizio di Google.",
+          "Per fornire gli annunci, il Google Mobile Ads SDK raccoglie:",
+          "- identificativi del dispositivo: l’identificativo pubblicitario (su iOS l’IDFA, solo se autorizza il tracciamento tramite la richiesta App Tracking Transparency di Apple; su Android l’ID pubblicità Android);",
+          "- il Suo indirizzo IP e una posizione approssimativa ricavata da esso;",
+          "- informazioni sul dispositivo e sull’app, come modello del dispositivo, versione del sistema operativo e versione dell’app;",
+          "- dati di interazione con gli annunci, come gli annunci mostrati e quelli toccati.",
+          "Google utilizza questi dati per la pubblicazione degli annunci, la misurazione, la prevenzione delle frodi e, solo con il Suo consenso, la personalizzazione degli annunci. Questi dati vengono inviati a Google, non a noi.",
+          "### Le Sue scelte",
+          "- **SEE, Regno Unito e Svizzera:** prima che venga richiesto qualsiasi annuncio, un messaggio di consenso certificato da Google (la User Messaging Platform di Google) Le chiede di esprimere la Sua scelta. Il messaggio può comparire anche in altre aree geografiche in cui la legge lo richiede. Può modificare la Sua scelta in qualsiasi momento in **Profilo → Privacy degli annunci**.",
+          "- **iOS:** l’app chiede l’autorizzazione al tracciamento tramite App Tracking Transparency (trasparenza sul tracciamento delle app) di Apple. Se non la concede, l’IDFA non viene condiviso. Può modificare questa scelta in seguito sul Suo iPhone in Impostazioni → Privacy e sicurezza → Tracciamento.",
+          "- **Android:** può reimpostare o eliminare l’ID pubblicità, oppure disattivare la personalizzazione degli annunci, nelle impostazioni del dispositivo (di solito Impostazioni → Privacy → Annunci; i nomi possono variare a seconda del dispositivo).",
+          "Se non autorizza il tracciamento o non presta il consenso, gli annunci che vede non sono personalizzati. Gli abbonati a PromptMaster Premium non vedono alcun annuncio e per loro non viene richiesto alcun annuncio.",
+          "Ulteriori informazioni: [In che modo Google utilizza le informazioni provenienti dalle app che utilizzano i suoi servizi](https://policies.google.com/technologies/partner-sites) e [Norme sulla privacy di Google](https://policies.google.com/privacy)."
+        ]
+      },
+      {
+        "id": "analytics",
+        "title": "Analisi e report sugli arresti anomali (Firebase)",
+        "body": [
+          "Utilizziamo i seguenti servizi Firebase, forniti da Google, per comprendere come viene utilizzata l’app, migliorarla, correggere gli arresti anomali e regolare le funzionalità:",
+          "- **Google Analytics for Firebase:** eventi di utilizzo dell’app e schermate visualizzate, un ID istanza dell’app, informazioni sul dispositivo e sul sistema operativo e posizione approssimativa.",
+          "- **Firebase Crashlytics:** report sugli arresti anomali, comprese le tracce dello stack (stack trace), il modello del dispositivo, la versione del sistema operativo, lo stato dell’app al momento dell’arresto anomalo e un UUID di installazione.",
+          "- **Firebase Remote Config:** un ID di installazione Firebase, utilizzato per fornire la configurazione dell’app.",
+          "Questi dati sono trattati da Google. Non comprendono i Suoi progressi di apprendimento né il nome che digita. Ulteriori informazioni: [Privacy e sicurezza in Firebase](https://firebase.google.com/support/privacy) e [Norme sulla privacy di Google](https://policies.google.com/privacy)."
+        ]
+      },
+      {
+        "id": "purchases",
+        "title": "Acquisti e abbonamenti (RevenueCat, Apple, Google, Huawei)",
+        "body": [
+          "Se acquista PromptMaster Premium, il pagamento è gestito interamente da Apple (App Store), da Google (Google Play) o da Huawei (HUAWEI AppGallery). Non vediamo né conserviamo mai i dati della Sua carta o altri dati di pagamento.",
+          "Utilizziamo RevenueCat per convalidare gli acquisti e gestire lo stato del Suo abbonamento. RevenueCat tratta informazioni su acquisti e abbonamenti: dati delle transazioni e delle ricevute provenienti dallo store, il prodotto acquistato, le date di acquisto e di scadenza, un ID utente anonimo dell’app, informazioni sul dispositivo e sul sistema operativo e il Suo indirizzo IP. Ulteriori informazioni: [Informativa sulla privacy di RevenueCat](https://www.revenuecat.com/privacy).",
+          "La versione di PromptMaster distribuita tramite HUAWEI AppGallery non utilizza né RevenueCat né Google Play Billing. In questa versione gli abbonamenti sono elaborati da HUAWEI In-App Purchases, un servizio di Huawei. Per acquistare o ripristinare un abbonamento, Lei accede con il Suo HUAWEI ID tramite una schermata di Huawei. Huawei tratta il Suo HUAWEI ID, le informazioni relative a ordine, abbonamento e pagamento, informazioni sul dispositivo e il Suo indirizzo IP. L’app riceve soltanto il record di acquisto firmato da Huawei (prodotto, dati dell’ordine, date di acquisto e di scadenza) e ne verifica la firma sul Suo dispositivo. Nulla viene inviato a noi: non disponiamo di server. Anche in questa versione vengono utilizzati Google AdMob e Firebase, come descritto sopra; sui dispositivi privi dei servizi Google gli annunci potrebbero non essere mostrati. Ulteriori informazioni: [Informativa sulla privacy di Huawei](https://consumer.huawei.com/en/privacy/privacy-policy/)."
+        ]
+      },
+      {
+        "id": "legal-bases",
+        "title": "Basi giuridiche del trattamento",
+        "body": [
+          "Laddove si applichino il Regolamento generale sulla protezione dei dati dell’UE o del Regno Unito (GDPR), la legge turca sulla protezione dei dati personali (KVKK) o normative analoghe, il trattamento si fonda su:",
+          "- **il Suo consenso**, per la pubblicità personalizzata e, su iOS, per il tracciamento (può revocare il consenso in qualsiasi momento come descritto sopra);",
+          "- **l’esecuzione di un contratto**, per il trattamento dei Suoi acquisti e la fornitura di Premium;",
+          "- **i nostri legittimi interessi** a mostrare annunci non personalizzati per finanziare la versione gratuita, a prevenire le frodi, a comprendere l’utilizzo dell’app e a correggere gli arresti anomali, purché su tali interessi non prevalgano i Suoi diritti."
+        ],
+        "todo": "TODO legal review: confirm legal bases, especially for Firebase Analytics in the EEA"
+      },
+      {
+        "id": "sharing",
+        "title": "Condivisione e vendita dei dati",
+        "body": [
+          "Non vendiamo i Suoi dati personali. I dati sono condivisi esclusivamente con i fornitori di servizi sopra indicati (Google per AdMob e Firebase, RevenueCat, Apple o Google per i pagamenti, e Huawei per pagamenti e abbonamenti nella versione HUAWEI AppGallery), ciascuno per le finalità descritte, e nei casi previsti dalla legge.",
+          "Ai sensi delle leggi di alcuni Stati degli USA, la pubblicità personalizzata può essere considerata «condivisione» (sharing) o «pubblicità mirata» (targeted advertising). Può opporsi (opt-out) non autorizzando il tracciamento su iOS, disattivando la personalizzazione degli annunci su Android oppure tramite Profilo → Privacy degli annunci, ove disponibile."
+        ]
+      },
+      {
+        "id": "transfers",
+        "title": "Trasferimenti internazionali di dati",
+        "body": [
+          "Google e RevenueCat possono trattare i dati negli Stati Uniti e in altri Paesi. Tali trasferimenti sono tutelati da garanzie adeguate, come le clausole contrattuali tipo della Commissione europea, secondo quanto descritto nelle informative dei fornitori stessi. Nella versione HUAWEI AppGallery, Huawei può trattare i dati nei Paesi e nelle regioni in cui opera, con le garanzie descritte nella propria informativa sulla privacy."
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "Periodo di conservazione dei dati",
+        "body": [
+          "- **I dati sul dispositivo** sono conservati finché non azzera i progressi o disinstalla l’app.",
+          "- **I dati di analisi e sugli arresti anomali** sono conservati dai fornitori per periodi limitati, in base alle rispettive impostazioni di conservazione: ad esempio, fino a 14 mesi per Google Analytics for Firebase e 90 giorni per Firebase Crashlytics.",
+          "- **I dati pubblicitari** sono conservati da Google secondo le proprie norme.",
+          "- **I dati relativi ad acquisti e abbonamenti** sono conservati da RevenueCat, Apple, Google e Huawei per il tempo necessario a gestire il Suo abbonamento e ad adempiere ai rispettivi obblighi di legge."
+        ]
+      },
+      {
+        "id": "your-rights",
+        "title": "I Suoi diritti e le Sue scelte",
+        "body": [
+          "A seconda del luogo in cui vive (ad esempio ai sensi del GDPR, della KVKK o del California Consumer Privacy Act), può avere il diritto di accedere ai Suoi dati, di ottenerne la cancellazione o la rettifica, di opporsi al trattamento o di chiederne la limitazione, e di revocare il consenso in qualsiasi momento. Ha inoltre il diritto di proporre reclamo all’autorità di controllo per la protezione dei dati competente (in Italia, il Garante per la protezione dei dati personali).",
+          "Poiché PromptMaster non prevede account, la maggior parte di questi diritti può essere esercitata direttamente sul Suo dispositivo:",
+          "- **Cancellare i progressi:** Profilo → Azzera i progressi, oppure disinstallare l’app.",
+          "- **Modificare il consenso agli annunci:** Profilo → Privacy degli annunci.",
+          "- **Limitare il tracciamento pubblicitario:** impostazioni di tracciamento o pubblicità del dispositivo (vedi sopra).",
+          "- **Qualsiasi altra richiesta:** ci scriva a [support@tikistudios.io](mailto:support@tikistudios.io). Poiché non gestiamo account, di norma non siamo in grado di associare a Lei i dati detenuti dai nostri fornitori, ma La aiuteremo per quanto possibile e, se necessario, inoltreremo la Sua richiesta. Può anche contattare direttamente Google, RevenueCat e Huawei."
+        ]
+      },
+      {
+        "id": "children",
+        "title": "Minori",
+        "body": [
+          "PromptMaster non è rivolta ai minori di 13 anni (o di 16 anni nello Spazio economico europeo) e gli annunci nell’app non sono indirizzati ai minori. Se è un genitore o un tutore e ritiene che Suo figlio o Sua figlia ci abbia fornito dati personali, La preghiamo di contattarci all’indirizzo [support@tikistudios.io](mailto:support@tikistudios.io): La aiuteremo."
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Sicurezza",
+        "body": [
+          "I dati inviati ai nostri fornitori di servizi sono cifrati durante la trasmissione. I dati conservati sul Suo dispositivo sono protetti dalle funzioni di sicurezza del dispositivo stesso, come il blocco dello schermo."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Modifiche alla presente informativa",
+        "body": [
+          "Potremmo aggiornare la presente Informativa sulla privacy in caso di modifiche all’app o alla normativa. Pubblicheremo la nuova versione su questa pagina e aggiorneremo la data di «Ultimo aggiornamento» indicata sopra."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contatti",
+        "body": [
+          "Domande o richieste in materia di privacy: [support@tikistudios.io](mailto:support@tikistudios.io)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di utilizzo — PromptMaster",
+    "description": "Le condizioni per l’uso dell’app PromptMaster, inclusi gli abbonamenti PromptMaster Premium, le prove gratuite, la pubblicità e i diritti dell’utente.",
+    "h1": "Termini di utilizzo",
+    "intro": [
+      "I presenti Termini di utilizzo («Termini») disciplinano l’uso dell’app mobile PromptMaster («PromptMaster», «l’app»), sviluppata e gestita da Tiki Studios («Tiki Studios», «noi»). Scaricando o utilizzando l’app, Lei accetta i presenti Termini. Se non li accetta, La preghiamo di non utilizzare l’app."
+    ],
+    "sections": [
+      {
+        "id": "license",
+        "title": "La Sua licenza d’uso dell’app",
+        "body": [
+          "Le concediamo una licenza personale, non esclusiva, non trasferibile e revocabile per scaricare e utilizzare PromptMaster sui dispositivi di Sua proprietà o sotto il Suo controllo, per il Suo apprendimento personale e a fini non commerciali, nel rispetto dei presenti Termini e delle regole dell’App Store o di Google Play da cui ha ottenuto l’app."
+        ]
+      },
+      {
+        "id": "content",
+        "title": "Contenuti didattici",
+        "body": [
+          "PromptMaster insegna tecniche per scrivere prompt destinati a strumenti di IA. L’app non si collega ad alcuno strumento di IA e non genera contenuti di IA. I risultati ottenuti con qualsiasi strumento di IA dipendono dallo strumento stesso e possono variare; pertanto non possiamo garantire che un determinato prompt produca un determinato risultato.",
+          "Le lezioni, gli esempi, gli esercizi, i punteggi e i template sono forniti a scopo didattico «così come sono». I punteggi sono un riscontro per aiutarLa a imparare, non una certificazione né una valutazione della competenza professionale."
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "title": "Uso consentito",
+        "body": [
+          "Utilizzando PromptMaster, Lei si impegna a non:",
+          "- copiare, modificare, distribuire, vendere o noleggiare l’app o i suoi contenuti, salvo nei limiti consentiti dalla legge;",
+          "- decodificare (reverse engineering), decompilare o tentare di estrarre il codice sorgente dell’app, salvo nei limiti consentiti dalla legge;",
+          "- interferire con l’app, con i suoi annunci o con il suo sistema di acquisto, né utilizzarla per commettere frodi (ad esempio manipolando le interazioni con gli annunci);",
+          "- utilizzare l’app in modo contrario alla legge o ai diritti altrui."
+        ]
+      },
+      {
+        "id": "free-and-ads",
+        "title": "Versione gratuita e pubblicità",
+        "body": [
+          "PromptMaster può essere utilizzata gratuitamente. La versione gratuita mostra annunci tra una lezione e l’altra, offre annunci video con premio facoltativi e limita i cuori; i cuori si ricaricano con il tempo e possono essere ricaricati anche con le gemme guadagnate nell’app. Gli annunci sono forniti da Google AdMob, come descritto nella nostra [Informativa sulla privacy]({privacy}).",
+          "Gemme, cuori, XP, distintivi, serie e posizioni in lega sono funzionalità dell’app. Non hanno alcun valore monetario, non possono essere convertiti in denaro e non sono trasferibili."
+        ]
+      },
+      {
+        "id": "premium",
+        "title": "Abbonamenti PromptMaster Premium",
+        "body": [
+          "PromptMaster Premium è un abbonamento facoltativo a rinnovo automatico che elimina la pubblicità e offre cuori illimitati, ripassi illimitati e la protezione automatica della serie. È disponibile come abbonamento mensile e come abbonamento annuale. I prezzi sono indicati nell’App Store, su Google Play e nell’app prima dell’acquisto.",
+          "- **Pagamento:** l’importo viene addebitato sul Suo ID Apple o sul Suo account Google Play al momento della conferma dell’acquisto (o al termine della prova gratuita).",
+          "- **Rinnovo automatico:** l’abbonamento si rinnova automaticamente per lo stesso periodo al prezzo in vigore in quel momento, a meno che non venga disdetto almeno 24 ore prima della fine del periodo in corso. Il rinnovo viene addebitato sul Suo account entro le 24 ore precedenti la fine del periodo in corso.",
+          "- **Prova gratuita:** l’abbonamento annuale include una prova gratuita di 7 giorni per i nuovi abbonati idonei. Se non viene disdetta almeno 24 ore prima della sua scadenza, la prova si converte automaticamente in un abbonamento annuale a pagamento. L’eventuale parte non utilizzata di una prova gratuita decade con l’acquisto di un abbonamento, ove applicabile.",
+          "- **Gestione e disdetta:** può gestire o disdire l’abbonamento dalle impostazioni del Suo account App Store o Google Play. L’eliminazione dell’app non comporta la disdetta dell’abbonamento. Dopo la disdetta, Premium resta attivo fino alla fine del periodo già pagato.",
+          "- **Rimborsi:** pagamenti, rinnovi e rimborsi sono gestiti da Apple o Google secondo le rispettive norme. Non possiamo emettere rimborsi direttamente. Può richiedere un rimborso ad Apple o a Google come descritto nella nostra [pagina di supporto]({support}).",
+          "- **Modifiche di prezzo:** se il prezzo del Suo abbonamento cambia, Apple o Google La informeranno in anticipo come previsto dalle loro regole, e potrà disdire prima che si applichi il nuovo prezzo.",
+          "- **Ripristino:** se reinstalla l’app o cambia dispositivo, utilizzi **Ripristina gli acquisti** nell’app per ripristinare un abbonamento attivo collegato allo stesso account dello store.",
+          "Nessuna disposizione dei presenti Termini pregiudica i diritti che la legge Le riconosce in quanto consumatore, compreso l’eventuale diritto di recesso previsto dalla legge del Suo Paese."
+        ]
+      },
+      {
+        "id": "ip",
+        "title": "Proprietà intellettuale",
+        "body": [
+          "L’app e tutti i suoi contenuti, tra cui lezioni, esercizi, template, testi, la mascotte della volpe, illustrazioni, design, loghi e il nome PromptMaster, appartengono a Tiki Studios o ai suoi licenzianti e sono protetti dalle leggi sulla proprietà intellettuale. I presenti Termini non Le conferiscono alcun diritto su di essi oltre alla licenza sopra descritta. I prompt che scrive nell’app sono Suoi."
+        ]
+      },
+      {
+        "id": "third-parties",
+        "title": "Servizi di terze parti",
+        "body": [
+          "L’app si avvale di servizi di terze parti, come App Store, Google Play, HUAWEI AppGallery, Google AdMob, Firebase, RevenueCat e HUAWEI In-App Purchases. All’utilizzo di tali servizi si applicano i rispettivi termini e le rispettive informative sulla privacy. Non siamo responsabili dei servizi di terze parti, compresi gli strumenti di IA che sceglie di utilizzare con le tecniche apprese."
+        ]
+      },
+      {
+        "id": "disclaimers",
+        "title": "Esclusione di garanzie",
+        "body": [
+          "Nei limiti consentiti dalla legge, l’app è fornita «così com’è» e «come disponibile», senza garanzie di alcun tipo, espresse o implicite, comprese le garanzie di commerciabilità, di idoneità a uno scopo particolare e di non violazione di diritti di terzi. Non garantiamo che l’app sia sempre disponibile, priva di interruzioni o di errori. Poiché i Suoi progressi sono conservati solo sul Suo dispositivo, potrebbero andare persi se elimina l’app, azzera i progressi oppure perde o sostituisce il dispositivo, e non siamo in grado di recuperarli."
+        ]
+      },
+      {
+        "id": "liability",
+        "title": "Limitazione di responsabilità",
+        "body": [
+          "Nei limiti consentiti dalla legge, non siamo responsabili di danni indiretti, incidentali, speciali o consequenziali, né di perdite di dati, di profitti o di avviamento, derivanti dall’uso o dall’impossibilità di usare l’app. Nei limiti consentiti dalla legge, la nostra responsabilità complessiva per qualsiasi pretesa relativa all’app è limitata all’importo da Lei pagato per PromptMaster Premium nei 12 mesi precedenti la pretesa.",
+          "Nessuna disposizione dei presenti Termini limita la responsabilità che non può essere limitata per legge, come quella per dolo o colpa grave, né i Suoi diritti inderogabili di consumatore."
+        ]
+      },
+      {
+        "id": "termination",
+        "title": "Cessazione",
+        "body": [
+          "Può smettere di utilizzare l’app in qualsiasi momento eliminandola. Ricordi che l’eliminazione dell’app non comporta la disdetta di un abbonamento. Possiamo sospendere o revocare la Sua licenza in caso di grave violazione dei presenti Termini. Le disposizioni che per loro natura devono continuare ad applicarsi (come quelle su proprietà intellettuale, esclusione di garanzie e limitazione di responsabilità) restano in vigore anche dopo la cessazione."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Modifiche all’app e ai presenti Termini",
+        "body": [
+          "Possiamo aggiornare l’app e modificare, aggiungere o rimuovere funzionalità e contenuti. Possiamo inoltre aggiornare i presenti Termini. Pubblicheremo la nuova versione su questa pagina e aggiorneremo la data di «Ultimo aggiornamento». Se continua a utilizzare l’app dopo l’entrata in vigore delle modifiche, si applicano i Termini aggiornati."
+        ]
+      },
+      {
+        "id": "law",
+        "title": "Legge applicabile",
+        "body": [
+          "I presenti Termini sono regolati dalle leggi della Repubblica di Turchia. Se è un consumatore, conserva inoltre la tutela delle norme imperative del Paese in cui risiede e può far valere le Sue pretese dinanzi ai tribunali presso i quali la legge Le consente di agire."
+        ],
+        "todo": "TODO legal review"
+      },
+      {
+        "id": "apple",
+        "title": "Condizioni aggiuntive per iOS",
+        "body": [
+          "Se ha scaricato PromptMaster dall’App Store di Apple, si applica anche il [Contratto di licenza con l’utente finale per le applicazioni concesse in licenza (EULA standard)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) di Apple, nella misura in cui non sia derogato dai presenti Termini. I presenti Termini sono stipulati tra Lei e Tiki Studios, non con Apple. Apple non è responsabile dell’app, dei suoi contenuti, della sua manutenzione o assistenza, né della gestione di eventuali reclami relativi all’app. Apple e le sue controllate sono terzi beneficiari dei presenti Termini e possono farli valere nei Suoi confronti."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contatti",
+        "body": [
+          "Domande sui presenti Termini: [support@tikistudios.io](mailto:support@tikistudios.io)."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "Supporto — PromptMaster",
+    "description": "Aiuto per PromptMaster: ripristinare gli acquisti, disdire l’abbonamento su iPhone o Android, azzerare i progressi, privacy degli annunci, promemoria e contatti.",
+    "h1": "Come possiamo aiutarti?",
+    "intro": "Le risposte alle domande più frequenti. Non trovi quello che cerchi? Scrivici.",
+    "sections": [
+      {
+        "id": "subscription",
+        "title": "Acquisti e abbonamenti",
+        "items": [
+          {
+            "id": "restore",
+            "q": "Come ripristino il mio acquisto?",
+            "a": [
+              "Se hai reinstallato l’app o sei passato a un nuovo telefono, apri PromptMaster e tocca **Ripristina gli acquisti** nella schermata Premium. Assicurati di aver effettuato l’accesso con lo stesso ID Apple o account Google che hai usato per abbonarti.",
+              "Se non viene trovato nulla, controlla che l’abbonamento sia ancora attivo nel tuo account dello store (vedi sotto)."
+            ]
+          },
+          {
+            "id": "cancel-ios",
+            "q": "Come disdico su iPhone o iPad?",
+            "a": [
+              "Apri **Impostazioni**, tocca il tuo nome, poi **Abbonamenti**, scegli PromptMaster e tocca **Annulla abbonamento**. Disdici almeno 24 ore prima della fine del periodo in corso per evitare l’addebito di quello successivo.",
+              "Guida di Apple: [Annullare un abbonamento di Apple](https://support.apple.com/it-it/118428)."
+            ]
+          },
+          {
+            "id": "cancel-android",
+            "q": "Come disdico su Android?",
+            "a": [
+              "Apri il **Google Play Store**, tocca l’immagine del profilo, poi **Pagamenti e abbonamenti → Abbonamenti**, scegli PromptMaster e tocca **Annulla abbonamento**. Disdici almeno 24 ore prima della fine del periodo in corso.",
+              "Guida di Google: [Annullare, sospendere o modificare un abbonamento su Google Play](https://support.google.com/googleplay/answer/7018481?hl=it)."
+            ]
+          },
+          {
+            "id": "delete-app",
+            "q": "Se elimino l’app, l’abbonamento viene disdetto?",
+            "a": [
+              "No. Eliminare l’app non disdice l’abbonamento. Disdicilo dalle impostazioni del tuo account App Store o Google Play, come descritto sopra."
+            ]
+          },
+          {
+            "id": "trial",
+            "q": "Come funziona la prova gratuita?",
+            "a": [
+              "Il piano Premium annuale include una prova gratuita di 7 giorni per i nuovi abbonati idonei. Se non disdici almeno 24 ore prima della fine della prova, questa diventa automaticamente un abbonamento annuale a pagamento. Puoi disdire durante la prova dalle impostazioni del tuo account dello store."
+            ]
+          },
+          {
+            "id": "refund",
+            "q": "Come ottengo un rimborso?",
+            "a": [
+              "I pagamenti sono elaborati da Apple o Google, quindi sono loro a gestire i rimborsi secondo le proprie norme: noi non possiamo emettere rimborsi direttamente.",
+              "- iPhone e iPad: [Richiedere un rimborso ad Apple](https://support.apple.com/it-it/118223)",
+              "- Android: [Norme sui rimborsi di Google Play](https://support.google.com/googleplay/answer/2479637?hl=it)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "title": "Progressi e dati",
+        "items": [
+          {
+            "id": "reset",
+            "q": "Come azzero i miei progressi?",
+            "a": [
+              "Vai su **Profilo → Azzera i progressi** e conferma. Serie, XP, distintivi e lezioni completate vengono cancellati e non si possono recuperare. La preferenza sui promemoria resta salvata come impostazione."
+            ]
+          },
+          {
+            "id": "new-phone",
+            "q": "Posso trasferire i miei progressi su un nuovo telefono?",
+            "a": [
+              "PromptMaster non ha account e conserva i progressi solo sul tuo dispositivo, quindi non è possibile trasferirli da un dispositivo all’altro. Il tuo abbonamento Premium, invece, si può ripristinare su un nuovo dispositivo con **Ripristina gli acquisti**."
+            ]
+          },
+          {
+            "id": "league",
+            "q": "Chi sono gli altri giocatori della lega?",
+            "a": [
+              "Gli avversari della lega sono giocatori immaginari generati sul tuo dispositivo. Non ci sono altri utenti reali e nessuno può vedere il tuo nome o il tuo punteggio."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "privacy-ads",
+        "title": "Pubblicità e privacy",
+        "items": [
+          {
+            "id": "ad-privacy",
+            "q": "Come modifico le impostazioni sulla privacy degli annunci?",
+            "a": [
+              "Nello Spazio economico europeo, nel Regno Unito e in Svizzera (e nelle altre aree in cui è richiesto), vai su **Profilo → Privacy degli annunci** per rivedere o modificare il tuo consenso in qualsiasi momento.",
+              "Su iPhone puoi anche consentire o bloccare il tracciamento in **Impostazioni → Privacy e sicurezza → Tracciamento** ([guida di Apple](https://support.apple.com/it-it/102420)). Su Android puoi reimpostare o eliminare l’ID pubblicità nelle impostazioni del dispositivo (di solito **Impostazioni → Privacy → Annunci**).",
+              "Se non consenti il tracciamento o non dai il consenso, vedrai comunque annunci, ma non personalizzati. Con PromptMaster Premium non c’è nessuna pubblicità. Trovi tutti i dettagli nella nostra [Informativa sulla privacy]({privacy})."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reminders",
+        "title": "Promemoria",
+        "items": [
+          {
+            "id": "notifications",
+            "q": "Perché non ricevo i promemoria?",
+            "a": [
+              "I promemoria sono programmati sul tuo dispositivo. Controlla che il promemoria quotidiano sia attivo in **Profilo → Promemoria quotidiano** e che le notifiche di PromptMaster siano consentite nelle impostazioni del telefono. Nei giorni in cui hai già raggiunto l’obiettivo non viene inviato alcun promemoria.",
+              "Per non ricevere più promemoria, disattiva il promemoria quotidiano nell’app oppure disattiva le notifiche di PromptMaster nelle impostazioni del telefono."
+            ]
+          }
+        ]
+      }
+    ],
+    "contactTitle": "Ti serve ancora aiuto?",
+    "contactText": "Scrivici a support@tikistudios.io. Se puoi, indica il modello del dispositivo e la versione dell’app: ci aiuta ad aiutarti più in fretta.",
+    "emailCta": "Scrivi al supporto"
+  },
+  "notFound": {
+    "title": "Pagina non trovata — PromptMaster",
+    "h1": "Questa pagina si è persa per strada",
+    "text": "Non abbiamo trovato la pagina che cercavi. Potrebbe essere stata spostata, oppure il link potrebbe essere sbagliato.",
+    "cta": "Vai alla home"
+  },
+  "chooser": {
+    "pick": "Scegli la tua lingua",
+    "tagline": "Impara a fare all’IA la domanda giusta."
+  }
+}

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://promptmaster.tikistudios.io/</loc>
+    <lastmod>2026-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/en/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/tr/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/de/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/fr/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/es/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/it/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ru/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/zh/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ja/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ko/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/en/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/tr/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/de/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/fr/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/es/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/it/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ru/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/zh/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ja/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ko/privacy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/en/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/tr/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/de/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/fr/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/es/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/it/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ru/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/zh/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ja/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ko/terms/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/terms/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/en/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/tr/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/de/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/fr/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/es/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/it/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ru/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/zh/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ja/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+  <url>
+    <loc>https://promptmaster.tikistudios.io/ko/support/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/support/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/support/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/support/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/support/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/support/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/support/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/support/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/support/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/support/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/support/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/en/support/"/>
+  </url>
+</urlset>

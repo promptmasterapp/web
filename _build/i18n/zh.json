@@ -1,0 +1,655 @@
+{
+  "code": "zh",
+  "name": "简体中文",
+  "ogLocale": "zh_CN",
+  "appleLocale": "zh-cn",
+  "common": {
+    "skip": "跳到主要内容",
+    "brandTag": "学习 AI 提示词",
+    "navHow": "使用方法",
+    "navPaths": "学习路径",
+    "navPremium": "Premium",
+    "navFaq": "常见问题",
+    "getApp": "下载应用",
+    "appStoreSmall": "前往下载",
+    "appStoreBig": "App Store",
+    "playSmall": "下载应用，请到",
+    "playBig": "Google Play",
+    "footerTagline": "学会向 AI 问对问题。每天五分钟。",
+    "footerProduct": "产品",
+    "footerLegal": "法律信息",
+    "footerHelp": "帮助",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "support": "支持",
+    "contact": "联系我们",
+    "language": "语言",
+    "allLanguages": "全部语言",
+    "rights": "© 2026 Tiki Studios。保留所有权利。",
+    "lastUpdated": "最后更新：2026 年 10 月 4 日",
+    "toc": "本页内容",
+    "backToTop": "返回顶部",
+    "home": "首页",
+    "logoAlt": "PromptMaster 首页"
+  },
+  "home": {
+    "title": "PromptMaster: Learn AI Prompts——每天 5 分钟，写出更好的提示词",
+    "description": "PromptMaster 教你每天花五分钟，写出更好的 AI 提示词。贴合你工作的课程、连胜、XP 和每周联赛，无需账号。",
+    "heroEyebrow": "每天 5 分钟",
+    "heroTitle": "向 AI 问<em>对</em>问题。",
+    "heroText": "AI 给出的答案，永远好不过你提出的问题。PromptMaster 教你把问题问得更好——不靠死记规则，而是靠每天五分钟的练习。",
+    "heroNote": "免费开始 · 无需账号，无需注册",
+    "heroShotAlt": "PromptMaster 首页：12 天连胜、每日目标和一轮复习",
+    "chipStreak": "天连胜",
+    "chipXp": "XP",
+    "chipHearts": "爱心",
+    "stats": [
+      {
+        "n": "6",
+        "l": "条领域学习路径"
+      },
+      {
+        "n": "150+",
+        "l": "节课"
+      },
+      {
+        "n": "550+",
+        "l": "道练习"
+      },
+      {
+        "n": "5 分钟",
+        "l": "每天这些就够了"
+      }
+    ],
+    "howEyebrow": "使用方法",
+    "howTitle": "课程短小，练习真实，反馈清晰。",
+    "howText": "每节课大约五分钟，最后总是由你亲手写提示词，而不只是读关于提示词的内容。",
+    "steps": [
+      {
+        "t": "选择你的领域",
+        "d": "建筑师、开发者、教师、市场人员、学生，或者只是好奇。课程和示例都贴合你真正在做的事。"
+      },
+      {
+        "t": "五种方式练习",
+        "d": "比较、填空、排序、找出问题，以及自己动笔。每种题型锻炼一项不同的能力。"
+      },
+      {
+        "t": "获得评分，不断进步",
+        "d": "你写的提示词会按背景、清晰度、格式和约束评分——并明确告诉你还需要补充什么。"
+      }
+    ],
+    "types": [
+      "比较",
+      "填空",
+      "排序",
+      "找出问题",
+      "自己动笔"
+    ],
+    "criteria": [
+      "背景",
+      "清晰度",
+      "格式",
+      "约束"
+    ],
+    "criteriaLabel": "你写的每个提示词都会按以下标准评分",
+    "howShotAlt": "一条自己写的提示词获得 81 分（满分 100），背景、清晰度、格式和约束各有单独的进度条",
+    "howShot2Alt": "一道选择题：哪个提示词真正改善了结果？",
+    "pathsEyebrow": "按领域定制的学习路径",
+    "pathsTitle": "围绕你的工作打造的课程",
+    "pathsText": "每个领域都有一条十个单元的学习路径，从基础出发，经过清晰表达和进阶技巧，一直通向精通。你可以随时更换领域。",
+    "roles": [
+      {
+        "key": "architect",
+        "name": "建筑师",
+        "hint": "图像生成、演示文稿",
+        "d": "把空间、风格和光线描述到位，让图像工具一次就画对。"
+      },
+      {
+        "key": "developer",
+        "name": "开发者",
+        "hint": "代码、调试",
+        "d": "练习用于调试和代码评审的提示词，给助手提供它真正需要的背景。"
+      },
+      {
+        "key": "teacher",
+        "name": "教师",
+        "hint": "教案、教学材料",
+        "d": "让 AI 生成难度恰到好处的教案、练习单和讲解。"
+      },
+      {
+        "key": "marketer",
+        "name": "市场人员",
+        "hint": "文案、活动",
+        "d": "像专业人士一样给 AI 布置任务：受众、语气、格式，以及文案必须遵守的限制。"
+      },
+      {
+        "key": "student",
+        "name": "学生",
+        "hint": "作业、资料查找",
+        "d": "借助 AI 理解知识、查找资料——提出能带来真正学习的问题。"
+      },
+      {
+        "key": "curious",
+        "name": "好奇者",
+        "hint": "日常生活、兴趣爱好",
+        "d": "旅行、菜谱、爱好和日常问题：第一次就得到有用的答案。"
+      }
+    ],
+    "gameEyebrow": "为养成习惯而设计",
+    "gameTitle": "每天五分钟，积少成多",
+    "gameText": "一天一课还是八课——目标由你来定。小小的奖励让你一次次回来，直到写好提示词成为你的第二天性。",
+    "game": [
+      {
+        "key": "streak",
+        "t": "每日连胜",
+        "d": "每天一课，让连胜延续下去。漏掉一天时，连胜保护会替你保住它。"
+      },
+      {
+        "key": "xp",
+        "t": "XP 与徽章",
+        "d": "每完成一课都能获得 XP，一路收集九枚徽章。"
+      },
+      {
+        "key": "hearts",
+        "t": "爱心",
+        "d": "答错会消耗一颗爱心。爱心每 25 分钟自动恢复一颗，也可以用宝石立即补满。"
+      },
+      {
+        "key": "gems",
+        "t": "宝石",
+        "d": "完成课程、满分作答以及达成连胜里程碑，都能获得宝石。"
+      },
+      {
+        "key": "league",
+        "t": "每周联赛",
+        "d": "从琥珀联赛一路晋级到钻石联赛。你的对手是在你设备上生成的虚构玩家。"
+      },
+      {
+        "key": "library",
+        "t": "模板库",
+        "d": "浏览现成的提示词，把它们改成适合你自己工作的版本。"
+      }
+    ],
+    "gameShotAlt": "每周联赛排行榜，显示晋级区和你的名次",
+    "gameShot2Alt": "按单元排列的学习路径，包括已完成和即将开始的课程",
+    "privacyEyebrow": "隐私，从设计开始",
+    "privacyTitle": "你的进度留在你的手机上",
+    "privacyText": "无需账号，无需注册。你的连胜、XP、宝石和已完成的课程只保存在你的设备上——我们从不把它们发送到任何服务器。",
+    "privacyPoints": [
+      "没有账号，没有邮箱，没有密码",
+      "学习进度只保存在你的设备上",
+      "随时一键重置全部内容"
+    ],
+    "privacyLink": "阅读隐私政策",
+    "privacyShotAlt": "“我的”页面，显示连胜、XP 总计、已完成课程和徽章",
+    "premiumEyebrow": "PromptMaster Premium",
+    "premiumTitle": "学习，不设限",
+    "premiumText": "PromptMaster 可以免费使用。免费版会在课程之间展示广告，并限制爱心数量。Premium 把这两样都去掉了。",
+    "premiumBenefits": [
+      "没有广告",
+      "无限爱心",
+      "无限复习轮",
+      "自动连胜保护"
+    ],
+    "planMonthly": {
+      "t": "按月",
+      "d": "每月自动续期，直到你取消为止。"
+    },
+    "planYearly": {
+      "t": "按年",
+      "d": "每年自动续期，直到你取消为止。",
+      "badge": "7 天免费试用"
+    },
+    "premiumNote": "免费试用仅适用于符合条件的新订阅用户。当前价格以 App Store、Google Play 和应用内显示的为准。你可以随时在商店账号设置中取消订阅。",
+    "premiumTermsLink": "订阅条款",
+    "faqTitle": "常见问题",
+    "faq": [
+      {
+        "q": "PromptMaster 是免费的吗？",
+        "a": "是的。所有课程都可以免费使用。免费版会在课程之间展示广告，并限制爱心数量；PromptMaster Premium 去除广告，并为你提供无限爱心、无限复习轮和自动连胜保护。"
+      },
+      {
+        "q": "需要注册账号吗？",
+        "a": "不需要。完全不用注册。你的进度只保存在你的设备上。"
+      },
+      {
+        "q": "PromptMaster 会生成 AI 回答吗？",
+        "a": "不会。PromptMaster 不连接任何 AI 工具，也不生成 AI 输出。它教你写提示词的技巧，你可以把这些技巧用在你已经在用的 AI 工具里。"
+      },
+      {
+        "q": "适合哪些人？",
+        "a": "任何想从 AI 那里得到更好结果的人——从学生到爷爷奶奶。大面积点按区域、易读的字号和平实的语言，让各个年龄的人都能轻松上手。"
+      },
+      {
+        "q": "联赛里的对手是真人吗？",
+        "a": "不是。每周联赛的对手是在你设备上生成的虚构玩家。其他人看不到你，也不会分享任何数据。"
+      },
+      {
+        "q": "如何取消 Premium？",
+        "a": "订阅由 Apple 或 Google 管理。请在当前周期结束前至少 24 小时，在 App Store 或 Google Play 的账号设置中取消。详细步骤请见我们的[支持页面]({support})。"
+      }
+    ],
+    "ctaTitle": "今天就开始吧。五分钟你是有的。",
+    "ctaText": "下载 PromptMaster，在咖啡变凉之前完成你的第一节课。"
+  },
+  "privacy": {
+    "title": "隐私政策 — PromptMaster",
+    "description": "PromptMaster 应用如何处理您的数据：进度保留在您的设备上，广告由 Google AdMob 提供，分析由 Firebase 提供，购买由 RevenueCat 或华为应用内支付管理。",
+    "h1": "隐私政策",
+    "intro": [
+      "本隐私政策说明 PromptMaster 移动应用（以下简称“PromptMaster”或“本应用”）会处理哪些信息、为何处理，以及您有哪些选择。PromptMaster 由 Tiki Studios（以下简称“Tiki Studios”或“我们”）开发和运营。本政策适用于 iOS 和 Android 上的本应用以及本网站。"
+    ],
+    "sections": [
+      {
+        "id": "summary",
+        "title": "摘要",
+        "body": [
+          "! **简而言之：**PromptMaster 没有用户账号，也没有自己的服务器。您的学习进度保留在您的设备上。免费版会展示来自 Google AdMob 的广告；我们使用 Firebase（Google 旗下服务）来了解应用的使用情况并修复崩溃问题，并使用 RevenueCat 管理订阅（HUAWEI AppGallery 版本则使用华为应用内支付）。这些服务提供商会按下文所述处理部分设备数据和使用数据。我们不会出售您的个人数据。"
+        ]
+      },
+      {
+        "id": "who-we-are",
+        "title": "我们是谁以及如何联系我们",
+        "body": [
+          "PromptMaster 由 Tiki Studios 开发和运营。Tiki Studios 作为数据控制者，负责本政策所述个人数据的处理。如有任何隐私方面的问题或请求，请发送邮件至 [support@tikistudios.io](mailto:support@tikistudios.io)。"
+        ],
+        "todo": "TODO legal review: add the postal address of Tiki Studios (data controller) and its legal form, if required (GDPR Art. 13 / KVKK Art. 10)"
+      },
+      {
+        "id": "on-device",
+        "title": "仅保存在您设备上的数据",
+        "body": [
+          "PromptMaster 没有用户账号。以下信息仅保存在您的设备上（本应用的本地存储中），绝不会发送给我们——我们没有可以接收这些信息的服务器：",
+          "- 您的学习进度：连胜、XP、爱心、宝石、徽章、联赛排名以及已完成的课程；",
+          "- 您答错的题目（用于复习轮）以及您收藏的模板；",
+          "- 您输入的名字（如果您选择填写）；",
+          "- 您的设置，例如领域（角色）、每日目标、语言和提醒偏好，以及 Premium 是否已开启。",
+          "您可以随时在应用中通过**我的 → 重置进度**删除这些信息。重置会清除您的进度、徽章和记录；只有提醒偏好（开关和时间）会作为设置保留。卸载应用会删除全部内容。"
+        ]
+      },
+      {
+        "id": "notifications",
+        "title": "通知",
+        "body": [
+          "提醒是由您手机自身的系统在设备上安排的本地通知。我们不运营推送通知服务器，发送提醒时也不会向任何地方传输数据。通知为可选功能；您可以在应用内或设备设置中关闭通知，不开启通知时本应用的全部功能依然可用。"
+        ]
+      },
+      {
+        "id": "league",
+        "title": "每周联赛",
+        "body": [
+          "每周联赛中的对手是在您设备上生成的虚构玩家。联赛中没有其他真实用户：您的名字、分数和排名不会与任何人分享，也没有其他人能看到您。"
+        ]
+      },
+      {
+        "id": "advertising",
+        "title": "广告（Google AdMob）",
+        "body": [
+          "PromptMaster 免费版会在课程之间展示插页式广告，并提供可选的激励视频广告。这些广告由 Google 旗下的服务 Google AdMob（Google Mobile Ads SDK）投放。",
+          "为了投放广告，Google Mobile Ads SDK 会收集：",
+          "- 设备标识符：广告标识符（iOS 上为 IDFA，仅在您通过 Apple 的 App Tracking Transparency（App 跟踪透明度）提示允许跟踪时收集；Android 上为 Android 广告 ID）；",
+          "- 您的 IP 地址，以及据此推断出的粗略（大致）位置；",
+          "- 设备和应用信息，例如设备型号、操作系统版本和应用版本；",
+          "- 广告互动数据，例如展示过的广告和点按过的广告。",
+          "Google 将这些数据用于广告投放、效果衡量、防范欺诈，以及——仅在获得您同意的情况下——广告个性化。这些数据发送给 Google，而不是我们。",
+          "### 您的选择",
+          "- **欧洲经济区、英国和瑞士：**在请求任何广告之前，一条经 Google 认证的同意征求消息（Google 的 User Messaging Platform）会请您作出选择。在法律有此要求的其他地区，该消息也可能出现。您可以随时在**我的 → 广告隐私设置**中更改您的选择。",
+          "- **iOS：**本应用会通过 Apple 的 App Tracking Transparency 请求跟踪权限。如果您不允许，IDFA 将不会被共享。您之后可以在 iPhone 的设置 → 隐私与安全性 → 跟踪中更改此项。",
+          "- **Android：**您可以在设备设置中重置或删除广告 ID，或选择停用广告个性化（通常位于设置 → 隐私 → 广告；名称可能因设备而异）。",
+          "如果您不允许跟踪或不给予同意，您看到的广告将是非个性化广告。PromptMaster Premium 订阅用户不会看到广告，本应用也不会为他们请求任何广告。",
+          "更多信息：[对于使用 Google 服务的应用，Google 如何使用其中的信息](https://policies.google.com/technologies/partner-sites)以及 [Google 隐私权政策](https://policies.google.com/privacy)。"
+        ]
+      },
+      {
+        "id": "analytics",
+        "title": "分析和崩溃报告（Firebase）",
+        "body": [
+          "我们使用以下由 Google 提供的 Firebase 服务，以了解本应用的使用情况、改进应用、修复崩溃问题并调整功能：",
+          "- **Google Analytics for Firebase：**应用使用事件和浏览过的页面、应用实例 ID、设备和操作系统信息，以及粗略位置。",
+          "- **Firebase Crashlytics：**崩溃报告，包括堆栈跟踪、设备型号、操作系统版本、崩溃发生时的应用状态以及安装 UUID。",
+          "- **Firebase Remote Config：**Firebase 安装 ID，用于下发应用配置。",
+          "这些数据由 Google 处理，其中不包含您的学习进度，也不包含您输入的名字。更多信息：[Firebase 中的隐私和安全](https://firebase.google.com/support/privacy)以及 [Google 隐私权政策](https://policies.google.com/privacy)。"
+        ]
+      },
+      {
+        "id": "purchases",
+        "title": "购买和订阅（RevenueCat、Apple、Google、华为）",
+        "body": [
+          "如果您购买 PromptMaster Premium，付款完全由 Apple（App Store）、Google（Google Play）或华为（HUAWEI AppGallery）处理。我们绝不会看到或存储您的银行卡或付款信息。",
+          "我们使用 RevenueCat 验证购买并管理您的订阅状态。RevenueCat 会处理购买和订阅信息：来自商店的交易和收据数据、所购产品、购买日期和到期日期、匿名的应用用户 ID、设备和操作系统信息，以及您的 IP 地址。更多信息：[RevenueCat 隐私政策](https://www.revenuecat.com/privacy)。",
+          "通过 HUAWEI AppGallery（华为应用市场）分发的 PromptMaster 版本不使用 RevenueCat，也不使用 Google Play 结算服务。该版本的订阅由华为提供的华为应用内支付服务（HUAWEI In-App Purchases）处理。购买或恢复订阅时，您需要在华为自己的界面上使用华为帐号（HUAWEI ID）登录。华为会处理您的华为帐号、订单、订阅和付款信息、设备信息以及 IP 地址。应用只会收到经华为签名的购买记录（产品、订单信息、购买日期和到期日期），并在您的设备上验证其签名。任何数据都不会发送给我们——我们没有服务器。该版本同样按上文所述使用 Google AdMob 和 Firebase；在没有 Google 服务的设备上，可能不会展示广告。更多信息：[华为隐私声明](https://consumer.huawei.com/en/privacy/privacy-policy/)。"
+        ]
+      },
+      {
+        "id": "legal-bases",
+        "title": "处理的法律依据",
+        "body": [
+          "在适用欧盟或英国《通用数据保护条例》（GDPR）、土耳其《个人数据保护法》（KVKK）或类似法律的情况下，我们依据以下法律依据处理数据：",
+          "- **您的同意**：用于个性化广告，以及 iOS 上的跟踪（您可以按上文所述随时撤回同意）；",
+          "- **履行合同**：用于处理您的购买并提供 Premium；",
+          "- **我们的正当利益**：展示非个性化广告以支持免费版、防范欺诈、了解应用使用情况以及修复崩溃问题，前提是您的权利并不优先于这些利益。"
+        ],
+        "todo": "TODO legal review: confirm legal bases, especially for Firebase Analytics in the EEA"
+      },
+      {
+        "id": "sharing",
+        "title": "数据的共享与出售",
+        "body": [
+          "我们不会出售您的个人数据。数据仅与上文所述的服务提供商共享（负责 AdMob 和 Firebase 的 Google、RevenueCat、负责付款的 Apple 或 Google，以及在 HUAWEI AppGallery 版本中负责付款和订阅的华为），各方仅将其用于所述目的；此外，在法律要求时也会共享。",
+          "根据美国部分州的法律，个性化广告可能被视为“共享”或“定向广告”。您可以通过以下方式选择退出：在 iOS 上不允许跟踪，在 Android 上停用广告个性化，或在可用时通过我的 → 广告隐私设置进行设置。"
+        ]
+      },
+      {
+        "id": "transfers",
+        "title": "国际数据传输",
+        "body": [
+          "Google 和 RevenueCat 可能会在美国及其他国家/地区处理数据。如各服务提供商自身的政策所述，这些传输受到适当保障措施的保护，例如欧盟委员会的标准合同条款。在 HUAWEI AppGallery 版本中，华为可能会在其开展业务的国家和地区处理数据，并采用其自身隐私政策中所述的保障措施。"
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "数据保留期限",
+        "body": [
+          "- **设备上的数据**会一直保留，直到您重置进度或卸载应用。",
+          "- **分析和崩溃数据**由服务提供商根据其保留设置在有限期限内保留——例如，Google Analytics for Firebase 最长保留 14 个月，Firebase Crashlytics 保留 90 天。",
+          "- **广告数据**由 Google 根据其自身政策保留。",
+          "- **购买和订阅数据**由 RevenueCat、Apple、Google 和华为保留，保留期限以管理您的订阅及履行其法定义务所需为限。"
+        ]
+      },
+      {
+        "id": "your-rights",
+        "title": "您的权利和选择",
+        "body": [
+          "根据您所在的地区（例如根据 GDPR、KVKK 或《加州消费者隐私法》），您可能有权访问您的数据、要求删除或更正数据、反对或限制处理，以及随时撤回您的同意。您还有权向当地的数据保护机构投诉。",
+          "由于 PromptMaster 没有账号，这些权利中的大多数可以直接在您的设备上行使：",
+          "- **删除进度：**我的 → 重置进度，或卸载应用。",
+          "- **更改广告同意：**我的 → 广告隐私设置。",
+          "- **限制广告跟踪：**使用设备的跟踪或广告设置（见上文）。",
+          "- **其他任何事项：**请发送邮件至 [support@tikistudios.io](mailto:support@tikistudios.io)。由于我们没有账号体系，通常无法将服务提供商持有的数据与您关联起来，但我们会尽力提供帮助，并在需要时转交您的请求。您也可以直接联系 Google、RevenueCat 和华为。"
+        ]
+      },
+      {
+        "id": "children",
+        "title": "儿童",
+        "body": [
+          "PromptMaster 不面向 13 岁以下的儿童（在欧洲经济区为 16 岁以下），应用内的广告也不以儿童为投放对象。如果您是家长或监护人，并认为您的孩子向我们提供了个人数据，请通过 [support@tikistudios.io](mailto:support@tikistudios.io) 与我们联系，我们会为您提供帮助。"
+        ]
+      },
+      {
+        "id": "security",
+        "title": "安全",
+        "body": [
+          "发送给我们服务提供商的数据在传输过程中经过加密。保存在您设备上的数据受设备自身安全功能（例如锁屏）的保护。"
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "本政策的变更",
+        "body": [
+          "当本应用或法律发生变化时，我们可能会更新本隐私政策。我们会在本页面发布新版本，并更新上方的“最后更新”日期。"
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "联系我们",
+        "body": [
+          "有关隐私的问题或请求：[support@tikistudios.io](mailto:support@tikistudios.io)。"
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "使用条款 — PromptMaster",
+    "description": "PromptMaster 应用的使用条款，涵盖 PromptMaster Premium 订阅、免费试用、广告以及您的权利。",
+    "h1": "使用条款",
+    "intro": [
+      "本使用条款（以下简称“本条款”）适用于您对 PromptMaster 移动应用（以下简称“PromptMaster”或“本应用”）的使用。本应用由 Tiki Studios（以下简称“Tiki Studios”或“我们”）开发和运营。下载或使用本应用，即表示您同意本条款。如果您不同意，请不要使用本应用。"
+    ],
+    "sections": [
+      {
+        "id": "license",
+        "title": "您使用本应用的许可",
+        "body": [
+          "我们授予您一项个人的、非独占的、不可转让的、可撤销的许可，允许您在您拥有或控制的设备上下载并使用 PromptMaster，用于您本人的非商业性学习；使用时须遵守本条款，以及您获取本应用的 App Store 或 Google Play 的规则。"
+        ]
+      },
+      {
+        "id": "content",
+        "title": "教育内容",
+        "body": [
+          "PromptMaster 教授为 AI 工具编写提示词的技巧。本应用不连接任何 AI 工具，也不生成 AI 输出。您从任何 AI 工具获得的结果取决于该工具本身，并可能有所不同，因此我们无法保证某个特定提示词会产生某个特定结果。",
+          "课程、示例、练习、评分和模板均按“原样”提供，仅供学习之用。评分是帮助您学习的反馈，并非认证，也不是对专业能力的评估。"
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "title": "可接受的使用",
+        "body": [
+          "使用 PromptMaster 时，您同意不会：",
+          "- 复制、修改、分发、出售或出租本应用或其内容，法律允许的情况除外；",
+          "- 对本应用进行逆向工程、反编译或试图提取其源代码，法律允许的情况除外；",
+          "- 干扰本应用、其广告或其购买系统，或利用本应用实施欺诈（例如操纵广告互动）；",
+          "- 以违反法律或侵犯他人权利的方式使用本应用。"
+        ]
+      },
+      {
+        "id": "free-and-ads",
+        "title": "免费版与广告",
+        "body": [
+          "PromptMaster 可以免费使用。免费版会在课程之间展示广告，提供可选的激励视频广告，并限制爱心数量；爱心会随时间恢复，也可以用在应用中赚取的宝石补满。广告由 Google AdMob 提供，详见我们的[隐私政策]({privacy})。",
+          "宝石、爱心、XP、徽章、连胜和联赛排名均为本应用的功能。它们不具有任何货币价值，不能兑换成金钱，也不能转让。"
+        ]
+      },
+      {
+        "id": "premium",
+        "title": "PromptMaster Premium 订阅",
+        "body": [
+          "PromptMaster Premium 是一项可选的自动续期订阅，可去除广告，并为您提供无限爱心、无限复习轮和自动连胜保护。订阅分为按月和按年两种。购买前，价格会显示在 App Store、Google Play 和应用内。",
+          "- **付款：**在您确认购买时（或免费试用结束时），费用将从您的 Apple ID 或 Google Play 账号中扣除。",
+          "- **自动续期：**除非您在当前周期结束前至少 24 小时取消，否则您的订阅将按届时的价格、以相同周期自动续期。续期费用将在当前周期结束前的 24 小时内从您的账号中扣除。",
+          "- **免费试用：**按年订阅为符合条件的新订阅用户提供 7 天免费试用。除非您在试用结束前至少 24 小时取消，否则试用将自动转为付费的按年订阅。如适用，当您购买订阅时，免费试用中任何未使用的部分将随即终止。",
+          "- **管理和取消：**您可以在 App Store 或 Google Play 的账号设置中管理或取消订阅。删除本应用不会取消您的订阅。取消后，Premium 将保持有效，直至您已付费的周期结束。",
+          "- **退款：**付款、续期和退款由 Apple 或 Google 根据其各自的政策处理。我们无法自行办理退款。您可以按照我们[支持页面]({support})中的说明，向 Apple 或 Google 申请退款。",
+          "- **价格变更：**如果您的订阅价格发生变化，Apple 或 Google 会按照其规则的要求提前通知您，您可以在新价格生效前取消订阅。",
+          "- **恢复购买：**如果您重新安装本应用或更换设备，请使用应用内的**恢复购买**功能，恢复与同一商店账号关联的有效订阅。",
+          "本条款的任何内容均不影响您作为消费者依法享有的任何权利，包括您所在国家法律规定的任何撤回权。"
+        ]
+      },
+      {
+        "id": "ip",
+        "title": "知识产权",
+        "body": [
+          "本应用及其全部内容——包括课程、练习、模板、文字、狐狸吉祥物、插图、设计、标志以及 PromptMaster 名称——归 Tiki Studios 或其许可方所有，并受知识产权法律保护。除上述许可外，本条款不授予您对其享有的任何权利。您在应用中编写的提示词归您所有。"
+        ]
+      },
+      {
+        "id": "third-parties",
+        "title": "第三方服务",
+        "body": [
+          "本应用依赖第三方服务，例如 App Store、Google Play、HUAWEI AppGallery、Google AdMob、Firebase、RevenueCat 和华为应用内支付（HUAWEI In-App Purchases）。您对这些服务的使用受其各自的条款和隐私政策约束。我们不对第三方服务负责，包括您选择结合所学技巧使用的任何 AI 工具。"
+        ]
+      },
+      {
+        "id": "disclaimers",
+        "title": "免责声明",
+        "body": [
+          "在法律允许的范围内，本应用按“原样”和“现有”基础提供，不附带任何形式的明示或默示保证，包括对适销性、特定用途适用性和不侵权的保证。我们不保证本应用始终可用、不会中断或没有错误。由于您的进度仅保存在您的设备上，如果您删除本应用、重置进度，或丢失或更换设备，进度可能会丢失，且我们无法恢复。"
+        ]
+      },
+      {
+        "id": "liability",
+        "title": "责任限制",
+        "body": [
+          "在法律允许的范围内，对于因您使用或无法使用本应用而产生的任何间接、附带、特殊或后果性损害，或任何数据、利润或商誉损失，我们概不负责。在法律允许的范围内，对于与本应用相关的任何索赔，我们的总责任以您在索赔前 12 个月内为 PromptMaster Premium 支付的金额为限。",
+          "本条款的任何内容均不限制依法不得限制的责任（例如对故意或重大过失承担的责任），也不限制您作为消费者享有的强制性权利。"
+        ]
+      },
+      {
+        "id": "termination",
+        "title": "终止",
+        "body": [
+          "您可以随时删除本应用以停止使用。请注意，删除本应用不会取消订阅。如果您严重违反本条款，我们可能会暂停或终止您的许可。按其性质应继续适用的条款（例如知识产权、免责声明和责任限制）在终止后仍然有效。"
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "本应用及本条款的变更",
+        "body": [
+          "我们可能会更新本应用，更改、增加或移除功能和内容。我们也可能会更新本条款。我们会在本页面发布新版本，并更新“最后更新”日期。如果您在变更生效后继续使用本应用，则适用更新后的条款。"
+        ]
+      },
+      {
+        "id": "law",
+        "title": "适用法律",
+        "body": [
+          "本条款受土耳其共和国法律管辖。如果您是消费者，您仍享有您居住国强制性法律所提供的保护，并可在法律允许的法院提起诉讼。"
+        ],
+        "todo": "TODO legal review"
+      },
+      {
+        "id": "apple",
+        "title": "iOS 附加条款",
+        "body": [
+          "如果您从 Apple App Store 下载了 PromptMaster，在未被本条款取代的范围内，Apple 的[许可应用程序最终用户许可协议（标准 EULA）](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)同样适用。本条款是您与 Tiki Studios 之间的协议，而非您与 Apple 之间的协议。Apple 不对本应用、其内容、维护或支持负责，也不负责处理与本应用相关的任何索赔。Apple 及其子公司是本条款的第三方受益人，并可对您执行本条款。"
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "联系我们",
+        "body": [
+          "有关本条款的问题：[support@tikistudios.io](mailto:support@tikistudios.io)。"
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "支持 — PromptMaster",
+    "description": "PromptMaster 帮助中心：恢复购买、在 iPhone 或 Android 上取消订阅、重置进度、广告隐私设置、提醒以及联系方式。",
+    "h1": "需要什么帮助？",
+    "intro": "这里是最常见问题的解答。没找到你需要的？给我们发邮件吧。",
+    "sections": [
+      {
+        "id": "subscription",
+        "title": "购买和订阅",
+        "items": [
+          {
+            "id": "restore",
+            "q": "如何恢复购买？",
+            "a": [
+              "如果你重新安装了应用或换了新手机，打开 PromptMaster，在 Premium 页面点按**恢复购买**。请确认你登录的是订阅时使用的同一个 Apple ID 或 Google 账号。",
+              "如果没有找到订阅，请在商店账号中确认订阅是否仍然有效（见下文）。"
+            ]
+          },
+          {
+            "id": "cancel-ios",
+            "q": "如何在 iPhone 或 iPad 上取消订阅？",
+            "a": [
+              "打开**设置**，轻点你的姓名，然后轻点**订阅**，选择 PromptMaster，再轻点**取消订阅**。请在当前周期结束前至少 24 小时取消，以免被收取下一个周期的费用。",
+              "Apple 的指南：[取消 Apple 的订阅](https://support.apple.com/zh-cn/118428)。"
+            ]
+          },
+          {
+            "id": "cancel-android",
+            "q": "如何在 Android 上取消订阅？",
+            "a": [
+              "打开 **Google Play 商店**，点按你的个人资料照片，然后依次点按**付款和订阅 → 订阅**，选择 PromptMaster，再点按**取消订阅**。请在当前周期结束前至少 24 小时取消。",
+              "Google 的指南：[在 Google Play 上取消、暂停或更改订阅](https://support.google.com/googleplay/answer/7018481?hl=zh-Hans)。"
+            ]
+          },
+          {
+            "id": "delete-app",
+            "q": "删除应用会取消我的订阅吗？",
+            "a": [
+              "不会。删除应用并不会取消订阅。请按上文所述，在 App Store 或 Google Play 的账号设置中取消订阅。"
+            ]
+          },
+          {
+            "id": "trial",
+            "q": "免费试用是怎么运作的？",
+            "a": [
+              "Premium 按年方案为符合条件的新订阅用户提供 7 天免费试用。如果你没有在试用结束前至少 24 小时取消，它会自动转为付费的按年订阅。试用期间，你可以随时在商店账号设置中取消。"
+            ]
+          },
+          {
+            "id": "refund",
+            "q": "如何申请退款？",
+            "a": [
+              "付款由 Apple 或 Google 处理，因此退款也由他们根据各自的政策办理——我们无法自行退款。",
+              "- iPhone 和 iPad：[向 Apple 申请退款](https://support.apple.com/zh-cn/118223)",
+              "- Android：[Google Play 退款政策](https://support.google.com/googleplay/answer/2479637?hl=zh-Hans)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "title": "进度与数据",
+        "items": [
+          {
+            "id": "reset",
+            "q": "如何重置进度？",
+            "a": [
+              "前往**我的 → 重置进度**并确认。你的连胜、XP、徽章和已完成的课程会被删除，且无法恢复。提醒偏好会作为设置保留。"
+            ]
+          },
+          {
+            "id": "new-phone",
+            "q": "能把进度转移到新手机上吗？",
+            "a": [
+              "PromptMaster 没有账号，进度只保存在你的设备上，所以无法在设备之间转移进度。你的 Premium 订阅可以在新设备上通过**恢复购买**找回。"
+            ]
+          },
+          {
+            "id": "league",
+            "q": "联赛里的其他玩家是谁？",
+            "a": [
+              "联赛中的对手是在你设备上生成的虚构玩家。没有其他真实用户，也没有人能看到你的名字或分数。"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "privacy-ads",
+        "title": "广告与隐私",
+        "items": [
+          {
+            "id": "ad-privacy",
+            "q": "如何更改广告隐私设置？",
+            "a": [
+              "在欧洲经济区、英国和瑞士（以及其他有此要求的地区），你可以随时前往**我的 → 广告隐私设置**查看或更改你的同意选择。",
+              "在 iPhone 上，你也可以在**设置 → 隐私与安全性 → 跟踪**中允许或停止跟踪（[Apple 的指南](https://support.apple.com/zh-cn/102420)）。在 Android 上，你可以在设备设置中重置或删除广告 ID（通常位于**设置 → 隐私 → 广告**）。",
+              "如果你不允许跟踪或不给予同意，你仍然会看到广告，只是它们不会是个性化广告。订阅 PromptMaster Premium 后则完全没有广告。详情请见我们的[隐私政策]({privacy})。"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reminders",
+        "title": "提醒",
+        "items": [
+          {
+            "id": "notifications",
+            "q": "为什么收不到提醒？",
+            "a": [
+              "提醒是在你的设备上排期的。请检查**我的 → 每日提醒**是否已开启，以及手机设置中是否允许 PromptMaster 发送通知。在你已经完成目标的日子里，不会发送提醒。",
+              "如果想停止提醒，可以在应用中关闭每日提醒，或在手机设置中关闭 PromptMaster 的通知。"
+            ]
+          }
+        ]
+      }
+    ],
+    "contactTitle": "还需要帮助？",
+    "contactText": "请发邮件至 support@tikistudios.io。如果方便，请附上你的设备型号和应用版本——这能帮我们更快地帮到你。",
+    "emailCta": "发邮件联系支持"
+  },
+  "notFound": {
+    "title": "页面未找到 — PromptMaster",
+    "h1": "这个页面走丢了",
+    "text": "我们找不到你要访问的页面。它可能已被移动，或者链接有误。",
+    "cta": "返回首页"
+  },
+  "chooser": {
+    "pick": "选择你的语言",
+    "tagline": "学会向 AI 问对问题。"
+  }
+}

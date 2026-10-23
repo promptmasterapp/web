@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PromptMaster: Learn AI Prompts</title>
+  <meta name="description" content="PromptMaster teaches you to write better prompts for AI in five minutes a day. Lessons for your role, streaks, XP and a weekly league. No account needed.">
+  <meta name="author" content="Tiki Studios">
+  <link rel="canonical" href="https://promptmaster.tikistudios.io/">
+  <link rel="alternate" hreflang="en" href="https://promptmaster.tikistudios.io/en/">
+  <link rel="alternate" hreflang="tr" href="https://promptmaster.tikistudios.io/tr/">
+  <link rel="alternate" hreflang="de" href="https://promptmaster.tikistudios.io/de/">
+  <link rel="alternate" hreflang="fr" href="https://promptmaster.tikistudios.io/fr/">
+  <link rel="alternate" hreflang="es" href="https://promptmaster.tikistudios.io/es/">
+  <link rel="alternate" hreflang="it" href="https://promptmaster.tikistudios.io/it/">
+  <link rel="alternate" hreflang="ru" href="https://promptmaster.tikistudios.io/ru/">
+  <link rel="alternate" hreflang="zh-Hans" href="https://promptmaster.tikistudios.io/zh/">
+  <link rel="alternate" hreflang="ja" href="https://promptmaster.tikistudios.io/ja/">
+  <link rel="alternate" hreflang="ko" href="https://promptmaster.tikistudios.io/ko/">
+  <link rel="alternate" hreflang="x-default" href="https://promptmaster.tikistudios.io/">
+  <meta name="theme-color" content="#FFF6EA" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1C120C" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PromptMaster">
+  <meta property="og:title" content="PromptMaster: Learn AI Prompts">
+  <meta property="og:description" content="PromptMaster teaches you to write better prompts for AI in five minutes a day. Lessons for your role, streaks, XP and a weekly league. No account needed.">
+  <meta property="og:url" content="https://promptmaster.tikistudios.io/">
+  <meta property="og:image" content="https://promptmaster.tikistudios.io/assets/img/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="PromptMaster — Learn AI Prompts">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="tr_TR">
+  <meta property="og:locale:alternate" content="de_DE">
+  <meta property="og:locale:alternate" content="fr_FR">
+  <meta property="og:locale:alternate" content="es_ES">
+  <meta property="og:locale:alternate" content="it_IT">
+  <meta property="og:locale:alternate" content="ru_RU">
+  <meta property="og:locale:alternate" content="zh_CN">
+  <meta property="og:locale:alternate" content="ja_JP">
+  <meta property="og:locale:alternate" content="ko_KR">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="favicon.png" type="image/png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Figtree:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="assets/site.css">
+  <script src="assets/site.js" defer></script>
+  <script>
+  /* Send first-time visitors to the best language once; a language picked on
+     the site (saved in localStorage) wins. ?choose shows this page instead. */
+  (function () {
+    var L = ["en", "tr", "de", "fr", "es", "it", "ru", "zh", "ja", "ko"];
+    if (/[?&]choose/.test(location.search)) return;
+    var saved = null;
+    try { saved = localStorage.getItem('pm-lang'); } catch (e) {}
+    var target = L.indexOf(saved) > -1 ? saved : null;
+    if (!target) {
+      try { if (sessionStorage.getItem('pm-redirected')) return; sessionStorage.setItem('pm-redirected', '1'); } catch (e) {}
+      var prefs = navigator.languages || [navigator.language || ''];
+      for (var i = 0; i < prefs.length && !target; i++) {
+        var p = String(prefs[i] || '').toLowerCase().split('-')[0];
+        if (L.indexOf(p) > -1) target = p;
+      }
+      target = target || 'en';
+    }
+    location.replace(target + '/' + location.hash);
+  })();
+  </script>
+</head>
+<body class="chooser">
+<main id="main" class="chooser-main">
+  <div class="chooser-card">
+    <img class="chooser-fox" src="assets/img/fox-hero.webp" width="372" height="480" alt="">
+    <p class="brand brand-lg"><img src="assets/img/icon-128.webp" width="56" height="56" alt=""><span class="wordmark">PromptMaster</span></p>
+    <h1>Choose your language</h1>
+    <ul class="chooser-list"><li><a href="en/" hreflang="en" lang="en" data-lang="en"><span class="lc">EN</span><span class="ln">English</span><span class="lp">Learn to ask AI the right question.</span></a></li><li><a href="tr/" hreflang="tr" lang="tr" data-lang="tr"><span class="lc">TR</span><span class="ln">Türkçe</span><span class="lp">Yapay zekâya doğru soruyu sormayı öğren.</span></a></li><li><a href="de/" hreflang="de" lang="de" data-lang="de"><span class="lc">DE</span><span class="ln">Deutsch</span><span class="lp">Lerne, der KI die richtige Frage zu stellen.</span></a></li><li><a href="fr/" hreflang="fr" lang="fr" data-lang="fr"><span class="lc">FR</span><span class="ln">Français</span><span class="lp">Apprends à poser la bonne question à l’IA.</span></a></li><li><a href="es/" hreflang="es" lang="es" data-lang="es"><span class="lc">ES</span><span class="ln">Español</span><span class="lp">Aprende a hacerle a la IA la pregunta correcta.</span></a></li><li><a href="it/" hreflang="it" lang="it" data-lang="it"><span class="lc">IT</span><span class="ln">Italiano</span><span class="lp">Impara a fare all’IA la domanda giusta.</span></a></li><li><a href="ru/" hreflang="ru" lang="ru" data-lang="ru"><span class="lc">RU</span><span class="ln">Русский</span><span class="lp">Научитесь задавать ИИ правильный вопрос.</span></a></li><li><a href="zh/" hreflang="zh-Hans" lang="zh-Hans" data-lang="zh"><span class="lc">ZH</span><span class="ln">简体中文</span><span class="lp">学会向 AI 问对问题。</span></a></li><li><a href="ja/" hreflang="ja" lang="ja" data-lang="ja"><span class="lc">JA</span><span class="ln">日本語</span><span class="lp">AIへの的確な質問のしかたを身につけましょう。</span></a></li><li><a href="ko/" hreflang="ko" lang="ko" data-lang="ko"><span class="lc">KO</span><span class="ln">한국어</span><span class="lp">AI에게 제대로 물어보는 법을 배워요.</span></a></li></ul>
+    <p class="chooser-foot"><a href="mailto:support@tikistudios.io">support@tikistudios.io</a></p>
+  </div>
+</main>
+</body>
+</html>

@@ -1,0 +1,655 @@
+{
+  "code": "tr",
+  "name": "Türkçe",
+  "ogLocale": "tr_TR",
+  "appleLocale": "tr-tr",
+  "common": {
+    "skip": "Ana içeriğe geç",
+    "brandTag": "AI Prompt Öğren",
+    "navHow": "Nasıl çalışır",
+    "navPaths": "Ders yolları",
+    "navPremium": "Premium",
+    "navFaq": "SSS",
+    "getApp": "Uygulamayı indir",
+    "appStoreSmall": "Hemen indir",
+    "appStoreBig": "App Store",
+    "playSmall": "Hemen edin",
+    "playBig": "Google Play",
+    "footerTagline": "Yapay zekâya doğru soruyu sormayı öğren. Günde beş dakika.",
+    "footerProduct": "Ürün",
+    "footerLegal": "Yasal",
+    "footerHelp": "Yardım",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "support": "Destek",
+    "contact": "İletişim",
+    "language": "Dil",
+    "allLanguages": "Tüm diller",
+    "rights": "© 2026 Tiki Studios. Tüm hakları saklıdır.",
+    "lastUpdated": "Son güncelleme: 4 Ekim 2026",
+    "toc": "Bu sayfada",
+    "backToTop": "Başa dön",
+    "home": "Ana sayfa",
+    "logoAlt": "PromptMaster ana sayfa"
+  },
+  "home": {
+    "title": "PromptMaster: Learn AI Prompts — günde 5 dakika prompt dersi",
+    "description": "PromptMaster, yapay zekâya daha iyi prompt yazmayı günde beş dakikada öğretir. Mesleğine özel dersler, seri, XP ve haftalık lig. Hesap gerekmez.",
+    "heroEyebrow": "Günde 5 dakika",
+    "heroTitle": "Yapay zekâya <em>doğru</em> soruyu sor.",
+    "heroText": "Yapay zekâdan aldığın cevap, sorduğun soru kadar iyi. PromptMaster sana daha iyi sorular sormayı öğretir — kural ezberleterek değil, günde beş dakikalık pratikle.",
+    "heroNote": "Ücretsiz başla · Hesap yok, kayıt yok",
+    "heroShotAlt": "PromptMaster ana ekranı: 12 günlük seri, günlük hedef ve tekrar turu",
+    "chipStreak": "günlük seri",
+    "chipXp": "XP",
+    "chipHearts": "can",
+    "stats": [
+      {
+        "n": "6",
+        "l": "mesleğe özel yol"
+      },
+      {
+        "n": "150+",
+        "l": "ders"
+      },
+      {
+        "n": "550+",
+        "l": "alıştırma"
+      },
+      {
+        "n": "5 dk",
+        "l": "günde yeterli"
+      }
+    ],
+    "howEyebrow": "Nasıl çalışır",
+    "howTitle": "Kısa dersler. Gerçek pratik. Net geri bildirim.",
+    "howText": "Her ders yaklaşık beş dakika sürer ve sonunda promptları yalnızca okumakla kalmaz, kendin yazarsın.",
+    "steps": [
+      {
+        "t": "Rolünü seç",
+        "d": "Mimar, yazılımcı, öğretmen, pazarlamacı, öğrenci ya da sadece meraklı. Dersler ve örnekler, gerçekten yaptığın işe göre gelir."
+      },
+      {
+        "t": "Beş farklı yolla pratik yap",
+        "d": "Karşılaştır, boşluk doldur, sıraya diz, hatayı bul ve kendin yaz. Her alıştırma tipi farklı bir beceriyi çalıştırır."
+      },
+      {
+        "t": "Puanını gör, gelişmeye devam et",
+        "d": "Yazdığın promptlar bağlam, netlik, biçim ve kısıtlar üzerinden puanlanır — neyi eklemen gerektiğini de tam olarak görürsün."
+      }
+    ],
+    "types": [
+      "Karşılaştır",
+      "Boşluk doldur",
+      "Sıraya diz",
+      "Hatayı bul",
+      "Kendin yaz"
+    ],
+    "criteria": [
+      "Bağlam",
+      "Netlik",
+      "Biçim",
+      "Kısıtlar"
+    ],
+    "criteriaLabel": "Yazdığın her prompt şu ölçütlerle puanlanır",
+    "howShotAlt": "100 üzerinden 81 puan alan yazılı bir prompt; bağlam, netlik, biçim ve kısıtlar için ayrı çubuklar",
+    "howShot2Alt": "Çoktan seçmeli bir alıştırma: Hangi prompt sonucu gerçekten iyileştirir?",
+    "pathsEyebrow": "Mesleğe özel yollar",
+    "pathsTitle": "Senin işine göre kurulan dersler",
+    "pathsText": "Her rolün on bölümlük bir yolu var: temellerden başlar, netlik ve ileri tekniklerden geçerek ustalığa uzanır. Alanını istediğin zaman değiştirebilirsin.",
+    "roles": [
+      {
+        "key": "architect",
+        "name": "Mimar",
+        "hint": "Görsel üretim, sunum",
+        "d": "Bir mekânı, üslubu ve ışığı öyle tarif et ki görsel üretim aracı ilk seferde doğru anlasın."
+      },
+      {
+        "key": "developer",
+        "name": "Yazılımcı",
+        "hint": "Kod, hata ayıklama",
+        "d": "Hata ayıklama ve kod incelemesi promptlarını, bir asistanın ihtiyaç duyduğu bağlamla birlikte çalış."
+      },
+      {
+        "key": "teacher",
+        "name": "Öğretmen",
+        "hint": "Ders planı, materyal",
+        "d": "Ders planlarını, çalışma kâğıtlarını ve konu anlatımlarını tam doğru seviyede iste."
+      },
+      {
+        "key": "marketer",
+        "name": "Pazarlamacı",
+        "hint": "Metin, kampanya",
+        "d": "Yapay zekâya bir profesyonel gibi brif ver: hedef kitle, ton, biçim ve metninin uyması gereken sınırlar."
+      },
+      {
+        "key": "student",
+        "name": "Öğrenci",
+        "hint": "Ödev, araştırma",
+        "d": "Yapay zekâyı anlamak ve araştırmak için kullan — seni gerçekten öğrenmeye götüren sorular sorarak."
+      },
+      {
+        "key": "curious",
+        "name": "Meraklı",
+        "hint": "Günlük hayat, hobi",
+        "d": "Geziler, tarifler, hobiler ve gündelik sorular: işe yarar cevabı ilk seferde al."
+      }
+    ],
+    "gameEyebrow": "Alışkanlık olsun diye tasarlandı",
+    "gameTitle": "Damlaya damlaya göl olan beş dakika",
+    "gameText": "Günde bir ders de olur, sekiz ders de — hedefini sen seçersin. Küçük ödüller seni her gün geri getirir; bir süre sonra iyi prompt yazmak sana doğal gelmeye başlar.",
+    "game": [
+      {
+        "key": "streak",
+        "t": "Günlük seri",
+        "d": "Her gün bir ders yap, serin sürsün. Bir gün kaçırırsan seri koruması serini kurtarır."
+      },
+      {
+        "key": "xp",
+        "t": "XP ve rozetler",
+        "d": "Her dersten XP kazan, yol boyunca dokuz rozet topla."
+      },
+      {
+        "key": "hearts",
+        "t": "Canlar",
+        "d": "Her hata bir cana mal olur. Canlar 25 dakikada bir kendiliğinden yenilenir ya da elmasla hemen dolar."
+      },
+      {
+        "key": "gems",
+        "t": "Elmaslar",
+        "d": "Ders bitirerek, dersleri kusursuz çözerek ve seri kilometre taşlarına ulaşarak elmas kazan."
+      },
+      {
+        "key": "league",
+        "t": "Haftalık lig",
+        "d": "Amber Ligi’nden Elmas Ligi’ne yüksel. Rakiplerin, senin cihazında üretilen kurgu oyunculardır."
+      },
+      {
+        "key": "library",
+        "t": "Şablon kütüphanesi",
+        "d": "Hazır promptlara göz at, kendi işine uyarla."
+      }
+    ],
+    "gameShotAlt": "Yükselme bölgesi ve senin sıralamanla haftalık lig tablosu",
+    "gameShot2Alt": "Bölüm bölüm ders yolu: tamamlanan ve sıradaki dersler",
+    "privacyEyebrow": "Gizlilik odaklı tasarım",
+    "privacyTitle": "İlerlemen telefonunda kalır",
+    "privacyText": "Hesap yok, kayıt yok. Serin, XP’in, elmasların ve bitirdiğin dersler yalnızca cihazında durur — onları hiçbir sunucuya göndermeyiz.",
+    "privacyPoints": [
+      "Hesap yok, e-posta yok, şifre yok",
+      "Öğrenme ilerlemen yalnızca cihazında saklanır",
+      "İstediğin an tek dokunuşla her şeyi sıfırla"
+    ],
+    "privacyLink": "Gizlilik Politikası’nı oku",
+    "privacyShotAlt": "Seri, toplam XP, bitirilen dersler ve rozetlerin göründüğü profil ekranı",
+    "premiumEyebrow": "PromptMaster Premium",
+    "premiumTitle": "Sınır tanımadan öğren",
+    "premiumText": "PromptMaster’ı ücretsiz kullanabilirsin. Ücretsiz sürümde dersler arasında reklam gösterilir ve canların sınırlıdır. Premium’da reklam da yok, can sınırı da.",
+    "premiumBenefits": [
+      "Reklam yok",
+      "Sınırsız can",
+      "Sınırsız tekrar turu",
+      "Otomatik seri koruması"
+    ],
+    "planMonthly": {
+      "t": "Aylık",
+      "d": "İptal edene kadar her ay yenilenir."
+    },
+    "planYearly": {
+      "t": "Yıllık",
+      "d": "İptal edene kadar her yıl yenilenir.",
+      "badge": "7 gün ücretsiz deneme"
+    },
+    "premiumNote": "Ücretsiz deneme, koşulları sağlayan yeni aboneler için geçerlidir. Güncel fiyatlar App Store’da, Google Play’de ve uygulamada gösterilir. Mağaza hesabının ayarlarından istediğin zaman iptal edebilirsin.",
+    "premiumTermsLink": "Abonelik koşulları",
+    "faqTitle": "Sıkça sorulan sorular",
+    "faq": [
+      {
+        "q": "PromptMaster ücretsiz mi?",
+        "a": "Evet. Bütün dersleri ücretsiz kullanabilirsin. Ücretsiz sürümde dersler arasında reklam gösterilir ve canların sınırlıdır; PromptMaster Premium reklamları kaldırır, sana sınırsız can, sınırsız tekrar turu ve otomatik seri koruması verir."
+      },
+      {
+        "q": "Hesap açmam gerekiyor mu?",
+        "a": "Hayır. Hiçbir kayıt işlemi yok. İlerlemen yalnızca cihazında kaydedilir."
+      },
+      {
+        "q": "PromptMaster yapay zekâ cevabı üretiyor mu?",
+        "a": "Hayır. PromptMaster hiçbir yapay zekâ aracına bağlanmaz ve yapay zekâ çıktısı üretmez. Sana, zaten kullandığın yapay zekâ araçlarında uygulayabileceğin prompt yazma tekniklerini öğretir."
+      },
+      {
+        "q": "Kimler için?",
+        "a": "Yapay zekâdan daha iyi sonuç almak isteyen herkes için — öğrencilerden dedelere, ninelere kadar. Büyük dokunma alanları, okunaklı yazı tipleri ve sade dil sayesinde her yaşta rahatça kullanılır."
+      },
+      {
+        "q": "Ligdeki rakipler gerçek kişiler mi?",
+        "a": "Hayır. Haftalık ligdeki rakipler, cihazında üretilen kurgu oyunculardır. Seni başka kimse göremez ve hiçbir veri paylaşılmaz."
+      },
+      {
+        "q": "Premium’u nasıl iptal ederim?",
+        "a": "Abonelikleri Apple ya da Google yönetir. Mevcut dönem bitmeden en az 24 saat önce App Store ya da Google Play hesap ayarlarından iptal et. Adım adım anlatımı [Destek sayfamızda]({support}) bulabilirsin."
+      }
+    ],
+    "ctaTitle": "Bugün başla. Beş dakikan var.",
+    "ctaText": "PromptMaster’ı indir, ilk dersini çayın soğumadan bitir."
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası — PromptMaster",
+    "description": "PromptMaster uygulaması verilerinizi nasıl işler: ilerleme cihazınızda kalır; reklamlar Google AdMob, analiz Firebase, satın almalar RevenueCat veya HUAWEI In-App Purchases üzerinden.",
+    "h1": "Gizlilik Politikası",
+    "intro": [
+      "Bu Gizlilik Politikası, PromptMaster mobil uygulamasının (“PromptMaster”, “uygulama”) hangi bilgileri hangi amaçla işlediğini ve bu konuda hangi seçeneklere sahip olduğunuzu açıklar. PromptMaster, Tiki Studios (“Tiki Studios”, “biz”) tarafından geliştirilir ve işletilir. Bu politika, iOS ve Android’deki uygulama ile bu web sitesi için geçerlidir."
+    ],
+    "sections": [
+      {
+        "id": "summary",
+        "title": "Özet",
+        "body": [
+          "! **Kısaca:** PromptMaster’ın kullanıcı hesapları ve kendine ait sunucuları yoktur. Öğrenme ilerlemeniz cihazınızda kalır. Ücretsiz sürümde Google AdMob reklamları gösterilir; uygulamanın nasıl kullanıldığını anlamak ve çökmeleri gidermek için Firebase’i (Google), abonelikleri yönetmek için ise RevenueCat’i (HUAWEI AppGallery sürümünde HUAWEI In-App Purchases’ı) kullanırız. Bu sağlayıcılar, aşağıda açıklandığı şekilde bazı cihaz ve kullanım verilerini işler. Kişisel verilerinizi satmayız."
+        ]
+      },
+      {
+        "id": "who-we-are",
+        "title": "Biz kimiz, bize nasıl ulaşabilirsiniz",
+        "body": [
+          "PromptMaster, Tiki Studios tarafından geliştirilir ve işletilir. Bu politikada açıklanan kişisel veri işleme faaliyetlerinden veri sorumlusu sıfatıyla Tiki Studios sorumludur. Gizlilikle ilgili her türlü soru ve talebiniz için bize [support@tikistudios.io](mailto:support@tikistudios.io) adresinden yazabilirsiniz."
+        ],
+        "todo": "TODO legal review: add the postal address of Tiki Studios (data controller) and its legal form, if required (GDPR Art. 13 / KVKK Art. 10)"
+      },
+      {
+        "id": "on-device",
+        "title": "Yalnızca cihazınızda saklanan veriler",
+        "body": [
+          "PromptMaster’da kullanıcı hesabı yoktur. Aşağıdaki bilgiler yalnızca cihazınızda (uygulamanın yerel depolama alanında) saklanır ve bize hiçbir zaman gönderilmez — zaten gönderilebilecekleri bir sunucumuz yoktur:",
+          "- öğrenme ilerlemeniz: seri, XP, canlar, elmaslar, rozetler, lig sıralaması ve tamamlanan dersler;",
+          "- yanlış cevapladığınız sorular (tekrar turları için) ve kaydettiğiniz şablonlar;",
+          "- girmeyi tercih ederseniz yazdığınız ad;",
+          "- alanınız (rolünüz), günlük hedefiniz, diliniz ve hatırlatma tercihiniz gibi ayarlarınız ile Premium’un etkin olup olmadığı bilgisi.",
+          "Bu bilgileri uygulamadaki **Profil → İlerlemeyi sıfırla** seçeneğiyle istediğiniz zaman silebilirsiniz. Sıfırlama; ilerlemenizi, rozetlerinizi ve kayıtlarınızı siler, yalnızca hatırlatma tercihiniz (açık/kapalı ve saati) ayar olarak korunur. Uygulamayı kaldırmak her şeyi siler."
+        ]
+      },
+      {
+        "id": "notifications",
+        "title": "Bildirimler",
+        "body": [
+          "Hatırlatmalar, telefonunuzun kendi sistemi tarafından cihazınızda planlanan yerel bildirimlerdir. Anlık bildirim (push) sunucusu işletmiyoruz ve bu bildirimlerin iletilmesi için hiçbir yere veri gönderilmez. Bildirimler isteğe bağlıdır; bunları uygulamadan veya cihaz ayarlarınızdan kapatabilirsiniz. Uygulama bildirimler olmadan da eksiksiz çalışır."
+        ]
+      },
+      {
+        "id": "league",
+        "title": "Haftalık lig",
+        "body": [
+          "Haftalık ligdeki rakipler, cihazınızda oluşturulan kurgusal oyunculardır. Ligde başka gerçek kullanıcı yoktur: adınız, puanınız ve sıralamanız kimseyle paylaşılmaz ve sizi başka kimse göremez."
+        ]
+      },
+      {
+        "id": "advertising",
+        "title": "Reklamlar (Google AdMob)",
+        "body": [
+          "PromptMaster’ın ücretsiz sürümü, dersler arasında geçiş reklamları (interstitial) ve isteğe bağlı ödüllü video reklamlar gösterir. Bu reklamlar, bir Google hizmeti olan Google AdMob (Google Mobile Ads SDK) tarafından sunulur.",
+          "Reklamları sunmak için Google Mobile Ads SDK şu verileri toplar:",
+          "- cihaz tanımlayıcıları: reklam kimliği (iOS’ta IDFA — yalnızca Apple’ın App Tracking Transparency (Uygulama İzleme Şeffaflığı) izin penceresinde izlemeye izin verirseniz; Android’de Android Reklam Kimliği);",
+          "- IP adresiniz ve bundan türetilen kaba (yaklaşık) konum;",
+          "- cihaz modeli, işletim sistemi sürümü ve uygulama sürümü gibi cihaz ve uygulama bilgileri;",
+          "- gösterilen ve dokunulan reklamlar gibi reklam etkileşimi verileri.",
+          "Google bu verileri reklam sunumu, ölçüm, dolandırıcılığın önlenmesi ve — yalnızca rızanız varsa — reklamların kişiselleştirilmesi için kullanır. Bu veriler bize değil, Google’a gider.",
+          "### Seçenekleriniz",
+          "- **Avrupa Ekonomik Alanı (AEA), Birleşik Krallık ve İsviçre:** herhangi bir reklam talep edilmeden önce, Google sertifikalı bir rıza mesajı (Google’ın User Messaging Platform’u) tercihinizi sorar. Bu mesaj, yasaların gerektirdiği diğer bölgelerde de gösterilebilir. Tercihinizi istediğiniz zaman **Profil → Reklam gizlilik ayarları** bölümünden değiştirebilirsiniz.",
+          "- **iOS:** uygulama, Apple’ın App Tracking Transparency (Uygulama İzleme Şeffaflığı) özelliği aracılığıyla izleme izni ister. İzin vermezseniz IDFA paylaşılmaz. Bu tercihi daha sonra iPhone’unuzun Ayarlar → Gizlilik ve Güvenlik → İzleme bölümünden değiştirebilirsiniz.",
+          "- **Android:** reklam kimliğinizi sıfırlayabilir veya silebilir ya da reklam kişiselleştirmesini devre dışı bırakabilirsiniz. Bunu cihazınızın ayarlarından yapabilirsiniz (genellikle Ayarlar → Gizlilik → Reklamlar; menü adları cihaza göre farklılık gösterebilir).",
+          "İzlemeye izin vermez veya rıza vermezseniz, gördüğünüz reklamlar kişiselleştirilmez. PromptMaster Premium abonelerine reklam gösterilmez ve onlar için reklam talebinde de bulunulmaz.",
+          "Daha fazla bilgi: [Google’ın, hizmetlerini kullanan uygulamalardan gelen bilgileri nasıl kullandığı](https://policies.google.com/technologies/partner-sites) ve [Google Gizlilik Politikası](https://policies.google.com/privacy)."
+        ]
+      },
+      {
+        "id": "analytics",
+        "title": "Analiz ve çökme raporları (Firebase)",
+        "body": [
+          "Uygulamanın nasıl kullanıldığını anlamak, uygulamayı geliştirmek, çökmeleri gidermek ve özellikleri ayarlamak için Google tarafından sağlanan aşağıdaki Firebase hizmetlerini kullanırız:",
+          "- **Google Analytics for Firebase:** uygulama kullanım olayları ve görüntülenen ekranlar, bir uygulama örneği kimliği (app instance ID), cihaz ve işletim sistemi bilgileri ile kaba konum.",
+          "- **Firebase Crashlytics:** yığın izleri (stack trace), cihaz modeli, işletim sistemi sürümü, çökme anındaki uygulama durumu ve bir kurulum UUID’si dahil olmak üzere çökme raporları.",
+          "- **Firebase Remote Config:** uygulama yapılandırmasını iletmek için kullanılan bir Firebase kurulum kimliği.",
+          "Bu veriler Google tarafından işlenir; öğrenme ilerlemenizi veya yazdığınız adı içermez. Daha fazla bilgi: [Firebase’de Gizlilik ve Güvenlik](https://firebase.google.com/support/privacy) ve [Google Gizlilik Politikası](https://policies.google.com/privacy)."
+        ]
+      },
+      {
+        "id": "purchases",
+        "title": "Satın almalar ve abonelikler (RevenueCat, Apple, Google, Huawei)",
+        "body": [
+          "PromptMaster Premium satın alırsanız ödeme işlemi tamamen Apple (App Store), Google (Google Play) veya Huawei (HUAWEI AppGallery) tarafından yürütülür. Kart veya ödeme bilgilerinizi hiçbir zaman görmeyiz ve saklamayız.",
+          "Satın almaları doğrulamak ve abonelik durumunuzu yönetmek için RevenueCat’i kullanırız. RevenueCat şu satın alma ve abonelik bilgilerini işler: mağazadan gelen işlem ve makbuz verileri, satın alınan ürün, satın alma ve sona erme tarihleri, anonim bir uygulama kullanıcı kimliği, cihaz ve işletim sistemi bilgileri ile IP adresiniz. Daha fazla bilgi: [RevenueCat Gizlilik Politikası](https://www.revenuecat.com/privacy).",
+          "PromptMaster’ın HUAWEI AppGallery üzerinden dağıtılan sürümü RevenueCat’i ve Google Play Faturalandırma’yı kullanmaz. Bu sürümde abonelikler, Huawei’nin bir hizmeti olan HUAWEI In-App Purchases tarafından işlenir. Abonelik satın almak veya geri yüklemek için Huawei’nin kendi ekranında HUAWEI ID’nizle oturum açarsınız. Huawei; HUAWEI ID’nizi, sipariş, abonelik ve ödeme bilgilerinizi, cihaz bilgilerinizi ve IP adresinizi işler. Uygulama yalnızca Huawei tarafından imzalanmış satın alma kaydını (ürün, sipariş bilgileri, satın alma ve sona erme tarihleri) alır ve imzasını cihazınızda doğrular. Bize hiçbir şey gönderilmez; zaten sunucularımız yoktur. Google AdMob ve Firebase bu sürümde de yukarıda açıklandığı şekilde kullanılır; Google hizmetleri bulunmayan cihazlarda reklam gösterilmeyebilir. Daha fazla bilgi: [Huawei Gizlilik Bildirimi](https://consumer.huawei.com/en/privacy/privacy-policy/)."
+        ]
+      },
+      {
+        "id": "legal-bases",
+        "title": "Veri işlemenin hukuki sebepleri",
+        "body": [
+          "AB veya Birleşik Krallık Genel Veri Koruma Tüzüğü’nün (GDPR), 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (KVKK) veya benzeri yasaların uygulandığı durumlarda şu hukuki sebeplere dayanırız:",
+          "- kişiselleştirilmiş reklamlar ve iOS’ta izleme için **açık rızanız** (rızanızı yukarıda açıklandığı şekilde istediğiniz zaman geri alabilirsiniz);",
+          "- satın almalarınızın işlenmesi ve Premium’un sunulması için **sözleşmenin ifası**;",
+          "- ücretsiz sürümü finanse etmek için kişiselleştirilmemiş reklam gösterme, dolandırıcılığı önleme, uygulamanın kullanımını anlama ve çökmeleri giderme konusundaki **meşru menfaatlerimiz** (haklarınızın bu menfaatlere ağır basmadığı durumlarda)."
+        ],
+        "todo": "TODO legal review: confirm legal bases, especially for Firebase Analytics in the EEA"
+      },
+      {
+        "id": "sharing",
+        "title": "Verilerin paylaşılması ve satılması",
+        "body": [
+          "Kişisel verilerinizi satmayız. Veriler yalnızca yukarıda açıklanan hizmet sağlayıcılarla (AdMob ve Firebase için Google, RevenueCat, ödemeler için Apple veya Google ve HUAWEI AppGallery sürümünde ödemeler ve abonelikler için Huawei), her biri için belirtilen amaçlarla ve yasaların gerektirdiği durumlarda paylaşılır.",
+          "ABD’deki bazı eyalet yasalarına göre kişiselleştirilmiş reklamcılık “paylaşım” (sharing) veya “hedefli reklamcılık” (targeted advertising) sayılabilir. Bunu reddetmek için iOS’ta izlemeye izin vermeyebilir, Android’de reklam kişiselleştirmesini devre dışı bırakabilir ya da mevcutsa Profil → Reklam gizlilik ayarları bölümünü kullanabilirsiniz."
+        ]
+      },
+      {
+        "id": "transfers",
+        "title": "Yurt dışına veri aktarımı",
+        "body": [
+          "Google ve RevenueCat verileri Amerika Birleşik Devletleri’nde ve başka ülkelerde işleyebilir. Bu aktarımlar, sağlayıcıların kendi politikalarında açıklandığı gibi, Avrupa Komisyonu’nun Standart Sözleşme Maddeleri gibi uygun güvencelerle korunur. HUAWEI AppGallery sürümünde Huawei, verileri faaliyet gösterdiği ülke ve bölgelerde, kendi gizlilik politikasında açıklanan güvencelerle işleyebilir."
+        ]
+      },
+      {
+        "id": "retention",
+        "title": "Veriler ne kadar süre saklanır",
+        "body": [
+          "- **Cihazdaki veriler**, ilerlemenizi sıfırlayana veya uygulamayı kaldırana kadar saklanır.",
+          "- **Analiz ve çökme verileri**, sağlayıcılar tarafından kendi saklama ayarlarına göre sınırlı sürelerle saklanır — örneğin Google Analytics for Firebase için 14 aya kadar, Firebase Crashlytics için 90 gün.",
+          "- **Reklam verileri**, Google tarafından kendi politikalarına göre saklanır.",
+          "- **Satın alma ve abonelik verileri**, aboneliğinizi yönetmek ve kendi yasal yükümlülüklerini yerine getirmek için gerektiği sürece RevenueCat, Apple, Google ve Huawei tarafından saklanır."
+        ]
+      },
+      {
+        "id": "your-rights",
+        "title": "Haklarınız ve seçenekleriniz",
+        "body": [
+          "Yaşadığınız yere bağlı olarak (örneğin GDPR, KVKK veya Kaliforniya Tüketici Gizliliği Yasası kapsamında) verilerinize erişme, verilerinizin silinmesini veya düzeltilmesini isteme, işlemeye itiraz etme veya işlemenin kısıtlanmasını isteme ve rızanızı istediğiniz zaman geri alma haklarına sahip olabilirsiniz. Ayrıca bulunduğunuz yerdeki veri koruma otoritesine şikâyette bulunma hakkınız da vardır.",
+          "PromptMaster’da hesap olmadığı için bu hakların çoğunu doğrudan cihazınızda kullanabilirsiniz:",
+          "- **İlerlemenizi silmek için:** Profil → İlerlemeyi sıfırla ya da uygulamayı kaldırın.",
+          "- **Reklam rızanızı değiştirmek için:** Profil → Reklam gizlilik ayarları.",
+          "- **Reklam izlemeyi sınırlamak için:** cihazınızın izleme veya reklam ayarları (yukarıya bakın).",
+          "- **Diğer tüm talepler için:** [support@tikistudios.io](mailto:support@tikistudios.io) adresine e-posta gönderin. Hesap sistemimiz olmadığından, sağlayıcılarımızın elindeki verileri genellikle sizinle ilişkilendiremeyiz; ancak size elimizden geldiğince yardımcı olur ve gerektiğinde talebinizi ilgili sağlayıcıya iletiriz. Google, RevenueCat ve Huawei ile doğrudan da iletişime geçebilirsiniz."
+        ]
+      },
+      {
+        "id": "children",
+        "title": "Çocuklar",
+        "body": [
+          "PromptMaster, 13 yaşın altındaki (Avrupa Ekonomik Alanı’nda 16 yaşın altındaki) çocuklara yönelik değildir ve uygulamadaki reklamlar çocukları hedeflemez. Ebeveyn veya vasiyseniz ve çocuğunuzun bize kişisel veri verdiğini düşünüyorsanız, lütfen [support@tikistudios.io](mailto:support@tikistudios.io) adresinden bize ulaşın; size yardımcı oluruz."
+        ]
+      },
+      {
+        "id": "security",
+        "title": "Güvenlik",
+        "body": [
+          "Hizmet sağlayıcılarımıza gönderilen veriler aktarım sırasında şifrelenir. Cihazınızda saklanan veriler, ekran kilidi gibi cihazınızın kendi güvenlik özellikleriyle korunur."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Bu politikadaki değişiklikler",
+        "body": [
+          "Uygulama veya mevzuat değiştiğinde bu Gizlilik Politikası’nı güncelleyebiliriz. Yeni sürümü bu sayfada yayımlar ve yukarıdaki “Son güncelleme” tarihini güncelleriz."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "İletişim",
+        "body": [
+          "Gizlilikle ilgili soru ve talepleriniz için: [support@tikistudios.io](mailto:support@tikistudios.io)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Kullanım Koşulları — PromptMaster",
+    "description": "PromptMaster uygulamasının kullanım koşulları: PromptMaster Premium abonelikleri, ücretsiz denemeler, reklamlar ve haklarınız.",
+    "h1": "Kullanım Koşulları",
+    "intro": [
+      "Bu Kullanım Koşulları (“Koşullar”), Tiki Studios (“Tiki Studios”, “biz”) tarafından geliştirilen ve işletilen PromptMaster mobil uygulamasını (“PromptMaster”, “uygulama”) kullanımınızı düzenler. Uygulamayı indirerek veya kullanarak bu Koşulları kabul etmiş olursunuz. Kabul etmiyorsanız lütfen uygulamayı kullanmayın."
+    ],
+    "sections": [
+      {
+        "id": "license",
+        "title": "Uygulamayı kullanma lisansınız",
+        "body": [
+          "Size, PromptMaster’ı sahip olduğunuz veya kontrolünüzdeki cihazlarda, kendi ticari olmayan öğrenme amaçlarınız için, bu Koşullara ve uygulamayı edindiğiniz App Store ya da Google Play’in kurallarına uygun olarak indirip kullanmanız için kişisel, münhasır olmayan, devredilemez ve geri alınabilir bir lisans veriyoruz."
+        ]
+      },
+      {
+        "id": "content",
+        "title": "Eğitim içeriği",
+        "body": [
+          "PromptMaster, yapay zekâ araçları için prompt yazma tekniklerini öğretir. Uygulama herhangi bir yapay zekâ aracına bağlanmaz ve yapay zekâ çıktısı üretmez. Bir yapay zekâ aracından alacağınız sonuçlar o araca bağlıdır ve farklılık gösterebilir; bu nedenle belirli bir promptun belirli bir sonucu vereceğini garanti edemeyiz.",
+          "Dersler, örnekler, alıştırmalar, puanlar ve şablonlar öğrenme amacıyla “olduğu gibi” sunulur. Puanlar, öğrenmenize yardımcı olmak için verilen geri bildirimlerdir; bir sertifika veya mesleki yeterlilik değerlendirmesi değildir."
+        ]
+      },
+      {
+        "id": "acceptable-use",
+        "title": "Kabul edilebilir kullanım",
+        "body": [
+          "PromptMaster’ı kullanırken aşağıdakileri yapmamayı kabul edersiniz:",
+          "- yasaların izin verdiği durumlar dışında uygulamayı veya içeriğini kopyalamak, değiştirmek, dağıtmak, satmak ya da kiralamak;",
+          "- yasaların izin verdiği durumlar dışında uygulama üzerinde tersine mühendislik yapmak, uygulamayı kaynak koda geri derlemek veya kaynak kodunu elde etmeye çalışmak;",
+          "- uygulamanın, reklamlarının veya satın alma sisteminin işleyişine müdahale etmek ya da uygulamayı dolandırıcılık amacıyla kullanmak (örneğin reklam etkileşimlerini manipüle ederek);",
+          "- uygulamayı yasaları veya başkalarının haklarını ihlal edecek şekilde kullanmak."
+        ]
+      },
+      {
+        "id": "free-and-ads",
+        "title": "Ücretsiz sürüm ve reklamlar",
+        "body": [
+          "PromptMaster ücretsiz olarak kullanılabilir. Ücretsiz sürüm dersler arasında reklam gösterir, isteğe bağlı ödüllü video reklamlar sunar ve canlarınızı sınırlar; canlar zamanla yenilenir, uygulamada kazanılan elmaslarla da doldurulabilir. Reklamlar, [Gizlilik Politikamızda]({privacy}) açıklandığı üzere Google AdMob tarafından sağlanır.",
+          "Elmaslar, canlar, XP, rozetler, seriler ve lig sıralamaları uygulamanın özellikleridir. Parasal değerleri yoktur, paraya çevrilemez ve devredilemez."
+        ]
+      },
+      {
+        "id": "premium",
+        "title": "PromptMaster Premium abonelikleri",
+        "body": [
+          "PromptMaster Premium; reklamları kaldıran ve size sınırsız can, sınırsız tekrar turu ve otomatik seri koruması sağlayan, isteğe bağlı ve otomatik olarak yenilenen bir aboneliktir. Aylık ve yıllık abonelik olarak sunulur. Fiyatlar, satın almadan önce App Store’da, Google Play’de ve uygulamada gösterilir.",
+          "- **Ödeme:** ücret, satın alma işlemini onayladığınızda (veya ücretsiz deneme sona erdiğinde) Apple Kimliğinizden ya da Google Play hesabınızdan tahsil edilir.",
+          "- **Otomatik yenileme:** mevcut dönemin bitiminden en az 24 saat önce iptal etmediğiniz sürece aboneliğiniz, o tarihte geçerli olan fiyattan aynı süre için otomatik olarak yenilenir. Yenileme ücreti, mevcut dönemin bitiminden önceki 24 saat içinde hesabınızdan tahsil edilir.",
+          "- **Ücretsiz deneme:** yıllık abonelik, koşulları sağlayan yeni aboneler için 7 günlük ücretsiz deneme içerir. Deneme süresi bitmeden en az 24 saat önce iptal etmezseniz, deneme otomatik olarak ücretli yıllık aboneliğe dönüşür. Uygulanabildiği durumlarda, abonelik satın aldığınızda ücretsiz denemenin kullanılmamış kısmı sona erer.",
+          "- **Yönetme ve iptal:** aboneliğinizi App Store veya Google Play hesap ayarlarınızdan yönetebilir ya da iptal edebilirsiniz. Uygulamayı silmek aboneliğinizi iptal etmez. İptalden sonra Premium, ödemesini yapmış olduğunuz dönemin sonuna kadar etkin kalır.",
+          "- **İadeler:** ödemeler, yenilemeler ve iadeler Apple veya Google tarafından kendi politikalarına göre yürütülür. İadeyi kendimiz yapamayız. [Destek sayfamızda]({support}) açıklandığı şekilde Apple’dan veya Google’dan iade talep edebilirsiniz.",
+          "- **Fiyat değişiklikleri:** aboneliğinizin fiyatı değişirse Apple veya Google, kendi kurallarının gerektirdiği şekilde sizi önceden bilgilendirir; yeni fiyat uygulanmadan önce iptal edebilirsiniz.",
+          "- **Geri yükleme:** uygulamayı yeniden yüklerseniz veya cihaz değiştirirseniz, aynı mağaza hesabına bağlı etkin bir aboneliği geri yüklemek için uygulamadaki **Satın almaları geri yükle** seçeneğini kullanın.",
+          "Bu Koşulların hiçbir hükmü, ülkenizin mevzuatından doğan cayma hakkı da dahil olmak üzere, tüketici olarak sahip olduğunuz yasal hakları etkilemez."
+        ]
+      },
+      {
+        "id": "ip",
+        "title": "Fikri mülkiyet",
+        "body": [
+          "Uygulama ve tüm içeriği — dersler, alıştırmalar, şablonlar, metinler, tilki maskot, çizimler, tasarım, logolar ve PromptMaster adı dahil — Tiki Studios’a veya lisans verenlerine aittir ve fikri mülkiyet mevzuatıyla korunur. Bu Koşullar, yukarıda açıklanan lisans dışında size bunlar üzerinde herhangi bir hak tanımaz. Uygulamada yazdığınız promptlar size aittir."
+        ]
+      },
+      {
+        "id": "third-parties",
+        "title": "Üçüncü taraf hizmetleri",
+        "body": [
+          "Uygulama; App Store, Google Play, HUAWEI AppGallery, Google AdMob, Firebase, RevenueCat ve HUAWEI In-App Purchases gibi üçüncü taraf hizmetlerini kullanır. Bu hizmetleri kullanımınıza, söz konusu hizmetlerin kendi koşulları ve gizlilik politikaları uygulanır. Öğrendiğiniz tekniklerle kullanmayı seçtiğiniz yapay zekâ araçları dahil, üçüncü taraf hizmetlerinden sorumlu değiliz."
+        ]
+      },
+      {
+        "id": "disclaimers",
+        "title": "Garanti reddi",
+        "body": [
+          "Yasaların izin verdiği ölçüde uygulama, ticari elverişlilik, belirli bir amaca uygunluk ve hak ihlali olmaması dahil olmak üzere, açık veya örtülü hiçbir garanti verilmeksizin “olduğu gibi” ve “mevcut olduğu şekliyle” sunulur. Uygulamanın her zaman erişilebilir, kesintisiz veya hatasız olacağını garanti etmeyiz. İlerlemeniz yalnızca cihazınızda saklandığından; uygulamayı silmeniz, ilerlemenizi sıfırlamanız ya da cihazınızı kaybetmeniz veya değiştirmeniz halinde kaybolabilir ve bunu geri getiremeyiz."
+        ]
+      },
+      {
+        "id": "liability",
+        "title": "Sorumluluğun sınırlandırılması",
+        "body": [
+          "Yasaların izin verdiği ölçüde, uygulamayı kullanmanızdan veya kullanamamanızdan doğan dolaylı, arızi, özel veya sonuçsal zararlardan ya da veri, kâr veya itibar kayıplarından sorumlu değiliz. Yasaların izin verdiği ölçüde, uygulamayla ilgili herhangi bir talepte toplam sorumluluğumuz, talepten önceki 12 ay içinde PromptMaster Premium için ödediğiniz tutarla sınırlıdır.",
+          "Bu Koşulların hiçbir hükmü, kasıt veya ağır ihmal gibi yasa gereği sınırlandırılamayan sorumluluğu ya da tüketici olarak sahip olduğunuz emredici hakları sınırlamaz."
+        ]
+      },
+      {
+        "id": "termination",
+        "title": "Sona erme",
+        "body": [
+          "Uygulamayı silerek istediğiniz zaman kullanmayı bırakabilirsiniz. Uygulamayı silmenin aboneliği iptal etmediğini unutmayın. Bu Koşulları ciddi şekilde ihlal etmeniz halinde lisansınızı askıya alabilir veya sona erdirebiliriz. Nitelikleri gereği uygulanmaya devam etmesi gereken bölümler (fikri mülkiyet, garanti reddi ve sorumluluğun sınırlandırılması gibi) sona ermenin ardından da yürürlükte kalır."
+        ]
+      },
+      {
+        "id": "changes",
+        "title": "Uygulamada ve bu Koşullarda yapılan değişiklikler",
+        "body": [
+          "Uygulamayı güncelleyebilir; özellikleri ve içeriği değiştirebilir, ekleyebilir veya kaldırabiliriz. Bu Koşulları da güncelleyebiliriz. Yeni sürümü bu sayfada yayımlar ve “Son güncelleme” tarihini güncelleriz. Değişiklikler yürürlüğe girdikten sonra uygulamayı kullanmaya devam ederseniz güncellenmiş Koşullar geçerli olur."
+        ]
+      },
+      {
+        "id": "law",
+        "title": "Uygulanacak hukuk",
+        "body": [
+          "Bu Koşullar Türkiye Cumhuriyeti kanunlarına tabidir. Tüketiciyseniz, yaşadığınız ülkenin emredici hukuk kurallarının sağladığı korumadan da yararlanmaya devam edersiniz ve yasaların size izin verdiği mahkemelerde dava açabilirsiniz."
+        ],
+        "todo": "TODO legal review"
+      },
+      {
+        "id": "apple",
+        "title": "iOS için ek koşullar",
+        "body": [
+          "PromptMaster’ı Apple App Store’dan indirdiyseniz, bu Koşullarla geçersiz kılınmadığı ölçüde Apple’ın [Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) de geçerlidir. Bu Koşullar Apple ile değil, sizinle Tiki Studios arasındadır. Apple; uygulamadan, içeriğinden, bakımından veya desteğinden ya da uygulamayla ilgili herhangi bir talebin ele alınmasından sorumlu değildir. Apple ve bağlı şirketleri bu Koşulların üçüncü taraf lehtarlarıdır ve bu Koşulları size karşı uygulatma hakkına sahiptir."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "İletişim",
+        "body": [
+          "Bu Koşullarla ilgili sorularınız için: [support@tikistudios.io](mailto:support@tikistudios.io)."
+        ]
+      }
+    ]
+  },
+  "support": {
+    "title": "Destek — PromptMaster",
+    "description": "PromptMaster yardım: satın almaları geri yükleme, iPhone ve Android’de abonelik iptali, ilerlemeyi sıfırlama, reklam gizlilik ayarları, hatırlatmalar ve iletişim.",
+    "h1": "Nasıl yardımcı olabiliriz?",
+    "intro": "En sık sorulan soruların cevapları burada. Aradığını bulamadın mı? Bize e-posta gönder.",
+    "sections": [
+      {
+        "id": "subscription",
+        "title": "Satın almalar ve abonelikler",
+        "items": [
+          {
+            "id": "restore",
+            "q": "Satın aldığım aboneliği nasıl geri yüklerim?",
+            "a": [
+              "Uygulamayı yeniden yüklediysen ya da yeni bir telefona geçtiysen PromptMaster’ı aç ve Premium ekranında **Satın almaları geri yükle** seçeneğine dokun. Abone olurken kullandığın Apple Kimliği ya da Google hesabıyla oturum açtığından emin ol.",
+              "Hiçbir şey bulunamazsa aboneliğin mağaza hesabında hâlâ etkin olup olmadığını kontrol et (aşağıya bak)."
+            ]
+          },
+          {
+            "id": "cancel-ios",
+            "q": "iPhone veya iPad’de nasıl iptal ederim?",
+            "a": [
+              "**Ayarlar** uygulamasını aç, adına dokun, ardından **Abonelikler** bölümüne gir. PromptMaster’ı seç ve **Aboneliği İptal Et** seçeneğine dokun. Bir sonraki dönem için ücret alınmaması için mevcut dönem bitmeden en az 24 saat önce iptal et.",
+              "Apple’ın rehberi: [Apple’dan alınan bir aboneliği iptal etme](https://support.apple.com/tr-tr/118428)."
+            ]
+          },
+          {
+            "id": "cancel-android",
+            "q": "Android’de nasıl iptal ederim?",
+            "a": [
+              "**Google Play Store** uygulamasını aç, profil resmine dokun, ardından **Ödemeler ve abonelikler → Abonelikler** bölümüne gir. PromptMaster’ı seç ve **Aboneliği iptal et** seçeneğine dokun. Mevcut dönem bitmeden en az 24 saat önce iptal et.",
+              "Google’ın rehberi: [Google Play’de bir aboneliği iptal etme, duraklatma veya değiştirme](https://support.google.com/googleplay/answer/7018481?hl=tr)."
+            ]
+          },
+          {
+            "id": "delete-app",
+            "q": "Uygulamayı silersem aboneliğim iptal olur mu?",
+            "a": [
+              "Hayır. Uygulamayı silmek aboneliği iptal etmez. Lütfen yukarıda anlatıldığı gibi App Store veya Google Play hesap ayarlarından iptal et."
+            ]
+          },
+          {
+            "id": "trial",
+            "q": "Ücretsiz deneme nasıl işliyor?",
+            "a": [
+              "Yıllık Premium planı, koşulları sağlayan yeni aboneler için 7 günlük ücretsiz deneme içerir. Deneme bitmeden en az 24 saat önce iptal etmezsen deneme otomatik olarak ücretli yıllık aboneliğe dönüşür. Deneme süresince mağaza hesabının ayarlarından iptal edebilirsin."
+            ]
+          },
+          {
+            "id": "refund",
+            "q": "Nasıl iade alırım?",
+            "a": [
+              "Ödemeleri Apple veya Google işlediği için iadeler de onların politikalarına göre onlar tarafından yapılır — iadeyi kendimiz yapamıyoruz.",
+              "- iPhone ve iPad: [Apple’dan iade iste](https://support.apple.com/tr-tr/118223)",
+              "- Android: [Google Play iade politikaları](https://support.google.com/googleplay/answer/2479637?hl=tr)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progress",
+        "title": "İlerleme ve veriler",
+        "items": [
+          {
+            "id": "reset",
+            "q": "İlerlememi nasıl sıfırlarım?",
+            "a": [
+              "**Profil → İlerlemeyi sıfırla** yolunu izle ve onayla. Serin, XP’in, rozetlerin ve bitirdiğin dersler silinir ve geri getirilemez. Hatırlatma tercihin ayar olarak kalır."
+            ]
+          },
+          {
+            "id": "new-phone",
+            "q": "İlerlememi yeni telefona taşıyabilir miyim?",
+            "a": [
+              "PromptMaster’da hesap yok ve ilerlemen yalnızca cihazında tutuluyor; bu yüzden ilerleme cihazlar arasında taşınamaz. Premium aboneliğini ise yeni cihazda **Satın almaları geri yükle** ile geri alabilirsin."
+            ]
+          },
+          {
+            "id": "league",
+            "q": "Ligdeki diğer oyuncular kim?",
+            "a": [
+              "Lig rakipleri, cihazında üretilen kurgu oyunculardır. Ligde başka gerçek kullanıcı yok; adını ya da puanını kimse göremez."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "privacy-ads",
+        "title": "Reklamlar ve gizlilik",
+        "items": [
+          {
+            "id": "ad-privacy",
+            "q": "Reklam gizlilik ayarlarımı nasıl değiştiririm?",
+            "a": [
+              "Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre’de (ve gerekli olan diğer bölgelerde) onayını istediğin zaman gözden geçirmek ya da değiştirmek için **Profil → Reklam gizlilik ayarları** bölümüne git.",
+              "iPhone’da izlemeye izin vermeyi ya da izlemeyi durdurmayı ayrıca **Ayarlar → Gizlilik ve Güvenlik → İzleme** bölümünden de yapabilirsin ([Apple’ın rehberi](https://support.apple.com/tr-tr/102420)). Android’de reklam kimliğini cihaz ayarlarından sıfırlayabilir ya da silebilirsin (genellikle **Ayarlar → Gizlilik → Reklamlar**; menü adları cihaza göre değişebilir).",
+              "İzlemeye izin vermez ya da onay vermezsen yine reklam görürsün, ama reklamlar kişiselleştirilmez. PromptMaster Premium’da ise hiç reklam yok. Ayrıntılar [Gizlilik Politikamızda]({privacy})."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "reminders",
+        "title": "Hatırlatmalar",
+        "items": [
+          {
+            "id": "notifications",
+            "q": "Neden hatırlatma gelmiyor?",
+            "a": [
+              "Hatırlatmalar cihazında planlanır. **Profil → Günlük hatırlatma** bölümünde günlük hatırlatmanın açık olduğunu ve telefon ayarlarında PromptMaster bildirimlerine izin verildiğini kontrol et. Hedefine zaten ulaştığın günlerde hatırlatma gönderilmez.",
+              "Hatırlatmaları durdurmak için uygulamada günlük hatırlatmayı kapat ya da telefon ayarlarından PromptMaster bildirimlerini kapat."
+            ]
+          }
+        ]
+      }
+    ],
+    "contactTitle": "Hâlâ yardıma mı ihtiyacın var?",
+    "contactText": "Bize support@tikistudios.io adresinden yaz. Mümkünse cihaz modelini ve uygulama sürümünü de ekle — sana daha hızlı yardımcı olmamızı sağlar.",
+    "emailCta": "Desteğe e-posta gönder"
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı — PromptMaster",
+    "h1": "Bu sayfa yolunu kaybetti",
+    "text": "Aradığın sayfayı bulamadık. Taşınmış olabilir ya da bağlantı hatalı olabilir.",
+    "cta": "Ana sayfaya dön"
+  },
+  "chooser": {
+    "pick": "Dilini seç",
+    "tagline": "Yapay zekâya doğru soruyu sormayı öğren."
+  }
+}
